@@ -25,8 +25,9 @@ A public repository of resources related to MonkeyPox maintained by ITER.
 <ul>
   <li><a href="#Virological">Virological post: A draft of the first genome sequence of Monkeypox virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain</a></li>
   <li><a href="#ilink2">Bioinformatic pipelines</a></li>
-  <li><a href="#ilink3">References</a></li>
-  <li><a href="#ilink3">Acknowledgements</a></li>
+  <li><a href="#ilink3">Sequences</a></li>
+  <li><a href="#ilink4">References</a></li>
+  <li><a href="#ilink5">Acknowledgements</a></li>
   </ul>
 
 <hr>
@@ -57,11 +58,12 @@ A public repository of resources related to MonkeyPox maintained by ITER.
   </a>
 </p>
 
+
 <hr>
 <!-- ------------------ SECTION 3 ------------------ -->
 
 <a name="ilink3"></a>
-## References ##
+## Sequences ##
 
 [This is an external link](https://github.com/genomicsITER/monkeypox)
 
@@ -74,7 +76,21 @@ A public repository of resources related to MonkeyPox maintained by ITER.
 <hr>
 <!-- ------------------ SECTION 4 ------------------ -->
 
-<a name="ilink3"></a>
+<a name="ilink4"></a>
+## References ##
+
+[This is an external link](https://github.com/genomicsITER/monkeypox)
+
+<p align="right">
+  <a href="#Monkeypox" title="Up">
+    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+<hr>
+<!-- ------------------ SECTION 5 ------------------ -->
+
+<a name="ilink5"></a>
 ## Acknowledgements ##
 
 [This is an external link](https://github.com/genomicsITER/monkeypox)
