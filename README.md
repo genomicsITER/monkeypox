@@ -15,6 +15,13 @@
 
 # Monkeypox
 A public repository of resources related to MonkeyPox maintained by ITER.
+A joint-effort of the following institutions and laboratories:
+<ul>
+ <li>Servicio de Microbiología, Hospital Universitario Ntra. Sra. de Candelaria, 38010 Santa Cruz de Tenerife, Spain</li>
+ <li>Research Unit, Hospital Universitario Ntra. Sra. de Candelaria, 38010 Santa Cruz de Tenerife, Spain</li>
+ <li>Laboratorio de Inmunología Celular y Viral, Unidad de Farmacología, Facultad de Medicina, Universidad de La Laguna, 38200 San Cristóbal de La Laguna, Spain</li>
+ <li>Genomics Division, Instituto Tecnológico y de Energías Renovables, 38600 Santa Cruz de Tenerife, Spain</li>
+</ul>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
