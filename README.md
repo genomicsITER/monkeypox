@@ -38,7 +38,7 @@ A public repository of resources related to MonkeyPox maintained by ITER.
 [This is an external link](https://github.com/genomicsITER/monkeypox)
 
 <p align="right">
-  <a href="#covid-19" title="Up">
+  <a href="#Monkeypox" title="Up">
     <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -52,7 +52,7 @@ A public repository of resources related to MonkeyPox maintained by ITER.
 [This is an external link](https://github.com/genomicsITER/monkeypox)
 
 <p align="right">
-  <a href="#covid-19" title="Up">
+  <a href="#Monkeypox" title="Up">
     <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -66,7 +66,7 @@ A public repository of resources related to MonkeyPox maintained by ITER.
 [This is an external link](https://github.com/genomicsITER/monkeypox)
 
 <p align="right">
-  <a href="#covid-19" title="Up">
+  <a href="#Monkeypox" title="Up">
     <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -80,7 +80,7 @@ A public repository of resources related to MonkeyPox maintained by ITER.
 [This is an external link](https://github.com/genomicsITER/monkeypox)
 
 <p align="right">
-  <a href="#covid-19" title="Up">
+  <a href="#Monkeypox" title="Up">
     <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
