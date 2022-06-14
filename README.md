@@ -39,7 +39,7 @@ A public repository of resources related to MonkeyPox maintained by ITER.
 
 <p align="right">
   <a href="#covid-19" title="Up">
-    <img src="https://github.com/genomicsITER/monkeypox/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
