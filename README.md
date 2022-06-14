@@ -1,0 +1,2 @@
+# monkeypox
+Monkeypox public repository
