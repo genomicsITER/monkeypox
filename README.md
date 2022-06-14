@@ -103,6 +103,8 @@ This is the result of a joint-effort of the following institutions and laborator
 
 This study has been funded by Cabildo Insular de Tenerife (CGIEU0000219140 and "Apuestas científicas del ITER para colaborar en la lucha contra la COVID-19"), Instituto de Salud Carlos III (FI18/00230) cofunded by European Union (ERDF) "A way of making Europe", and and by the agreement with Instituto Tecnológico y de Energías Renovables (ITER) to strengthen scientific and technological education, training, research, development and innovation in Genomics, Personalized Medicine and Biotechnology (OA17/008).
 
+We acknowledge the researchers and their institutions who released the Monkeypox sequences through NCBI GenBank that are being used.
+
 [This is an external link](https://github.com/genomicsITER/monkeypox)
 
 <p align="right">
