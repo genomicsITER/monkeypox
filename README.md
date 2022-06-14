@@ -23,19 +23,19 @@ A public repository of resources related to MonkeyPox maintained by ITER.
 
 # Table of contents #
 <ul>
-  <li><a href="#ilink1">ilink1</a></li>
-  <li><a href="#ilink2">ilink2</a></li>
-  <li><a href="#ilink3">ilink3</a></li>
-</ul>
+  <li><a href="#Virological">Virological post: A draft of the first genome sequence of Monkeypox virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain</a></li>
+  <li><a href="#ilink2">Bioinformatic pipelines</a></li>
+  <li><a href="#ilink3">References</a></li>
+  <li><a href="#ilink3">Acknowledgements</a></li>
+  </ul>
 
 <hr>
-<!-- ------------------ SECTION ------------------ -->
+<!-- ------------------ SECTION 1 ------------------ -->
 
 <a name="ilink1"></a>
-## How to read this repository ##
-> New section on June 14, 2022.
+## Virological posts ##
 
-[It is possible to stop the epidemic](https://www.coronavirus-fraser-group.org/)
+[This is an external link](https://github.com/genomicsITER/monkeypox)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -43,4 +43,44 @@ A public repository of resources related to MonkeyPox maintained by ITER.
   </a>
 </p>
 
+<hr>
+<!-- ------------------ SECTION 2 ------------------ -->
 
+<a name="ilink2"></a>
+## Bioinformatic pipelines ##
+
+[This is an external link](https://github.com/genomicsITER/monkeypox)
+
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+<hr>
+<!-- ------------------ SECTION 3 ------------------ -->
+
+<a name="ilink3"></a>
+## References ##
+
+[This is an external link](https://github.com/genomicsITER/monkeypox)
+
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+<hr>
+<!-- ------------------ SECTION 4 ------------------ -->
+
+<a name="ilink3"></a>
+## Acknowledgements ##
+
+[This is an external link](https://github.com/genomicsITER/monkeypox)
+
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
