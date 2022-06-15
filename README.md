@@ -83,39 +83,30 @@ code here
 ```
 
 **List of bioinformatic software used in our pipelines**
-[BBMap tools v.38.96](https://sourceforge.net/projects/bbmap/)
-
-NCBI SRA Human Scrubber (https://github.com/ncbi/sra-human-scrubber): v.1.0.2021_05_05
-Kraken2 (https://ccb.jhu.edu/software/kraken2/): v.2.1.2
-
-R (https://www.r-project.org/): v.4.1.3
-Mosdepth (https://github.com/brentp/mosdepth): v.0.3.3
-Picard Tools (https://broadinstitute.github.io/picard/): v.2.18.7
-
-iVar (https://github.com/andersen-lab/ivar): v.1.3.1
-LoFreq (https://csb5.github.io/lofreq/): v.2.1.5
-SAMtools (https://github.com/samtools/samtools): v.1.6
-
-MAFFT (https://mafft.cbrc.jp/alignment/server/): v.7.505
-
-IQ-TREE (http://www.iqtree.org/): v.2.2.0.3
-
-Minimap2 (https://github.com/lh3/minimap2): v.2.24-r1122
-Bowtie2 (http://bowtie-bio.sourceforge.net/bowtie2/index.shtml): v.2.4.5
-BWA (https://github.com/lh3/bwa): v.0.7.17-r1188
-
-Nextstrain (https://github.com/nextstrain/monkeypox): -
-
-Unicycler (https://github.com/rrwick/Unicycler): v.0.5.0
-QUAST (http://quast.sourceforge.net/): v.5.0.2
-Bandage (https://rrwick.github.io/Bandage/): v.0.9.0
-Pavian (https://ccb.jhu.edu/software/pavian/): v.1.0
-
-SnpEff (https://pcingola.github.io/SnpEff/): v.5.1d
-
-Figtree (http://tree.bio.ed.ac.uk/software/figtree/)
-ggtree (https://bioconductor.org/packages/release/bioc/html/ggtree.html): 3.15
-
+<ul>
+<li>Reformat FASTQ files to get an interleaved FASTQ file: [BBMap tools v.38.96](https://sourceforge.net/projects/bbmap/)</li>
+<li>Remove Human mapping-reads from your FASTQ files: [NCBI SRA Human Scrubber v.1.0.2021_05_05](https://github.com/ncbi/sra-human-scrubber/)</li>
+<li>Remove Human mapping-reads from your FASTQ files: [Kraken2 v.2.1.2](https://ccb.jhu.edu/software/kraken2/)</li>
+<li>Programming environment of general purpose: [R v.4.1.3](https://www.r-project.org/)</li>
+<li>Compute the depth of coverage and other statistics: [Mosdepth v.0.3.3](https://github.com/brentp/mosdepth/)</li>
+<li>Compute de number of duplicates and other statistics: [Picard Tools v.2.18.7](https://broadinstitute.github.io/picard/)</li>
+<li>Perform the variant calling and consensus: [iVar v.1.3.1](https://github.com/andersen-lab/ivar/)</li>
+<li>Perform the variant calling: [LoFreq v.2.1.5](https://csb5.github.io/lofreq/)</li>
+<li>Get mapping statistics, manipulate BAM files, and generate mpileups for FASTA consensus: [SAMtools v.1.6](https://github.com/samtools/samtools)</li>
+<li>Multiple Sample Alignment: [MAFFT v.7.505](https://mafft.cbrc.jp/alignment/server/)</li>
+<li>Phylogenomic inference and tree computing: [IQ-TREE v.2.2.0.3](http://www.iqtree.org/)</li>
+<li>Mapping of short-reads: [Minimap2 v.2.24-r1122](https://github.com/lh3/minimap2)</li>
+<li>Mapping of short-reads: [Bowtie2 v.2.4.5](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)</li>
+<li>Mapping of short-reads: [BWA v.0.7.17-r1188](https://github.com/lh3/bwa)</li>
+<li>Framework for analyses and visualization of pathogen genome data (Monkeypox in this case): [Nextstrain](https://github.com/nextstrain/monkeypox)</li>
+<li>Assembler: [Unicycler v.0.5.0](https://github.com/rrwick/Unicycler)</li>
+<li>Benchmarking and quality control of assemblies: [QUAST v.5.0.2](http://quast.sourceforge.net/)</li>
+<li>Visualization of assemblies: [Bandage v.0.9.0](https://rrwick.github.io/Bandage/)</li>
+<li>Visualization of Kraken 2 reports: [Pavian v.1.0](https://ccb.jhu.edu/software/pavian/)</li>
+<li>Annotation of genomes: [SnpEff v.5.1d](https://pcingola.github.io/SnpEff/)</li>
+<li>Visualization of phylogenetic trees: [Figtree](http://tree.bio.ed.ac.uk/software/figtree/)</li>
+<li>Visualization of phylogenetic trees: [ggtree 3.15](https://bioconductor.org/packages/release/bioc/html/ggtree.html)</li>
+</ul>
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
