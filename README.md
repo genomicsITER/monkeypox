@@ -55,7 +55,7 @@ The first genome sequence of Monkeypox virus described by us in Virological is p
 
 Figure in preparation...
 
-**Figure 1**. A phylogenetic tree depicting the draft MPXV sequence isolated the 31st of May 2022 from a patient from the Canary Islands along with NCBI GenBank publicly available sequences computed by a Nextstrain monkeypox local instance.
+**Figure 1**. A phylogenetic tree depicting the draft MPXV sequence isolated on 31st May 2022 from a patient from the Canary Islands along with NCBI GenBank publicly available sequences computed by a Nextstrain monkeypox local instance.
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
