@@ -105,6 +105,8 @@ This study has been funded by Cabildo Insular de Tenerife (CGIEU0000219140 and "
 
 We acknowledge the researchers and their institutions who released the Monkeypox sequences through NCBI GenBank that are being used.
 
+Table 2 here.
+
 [This is an external link](https://github.com/genomicsITER/monkeypox)
 
 <p align="right">
