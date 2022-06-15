@@ -7,10 +7,9 @@
 
 <!-- ------------------ SECTION ------------------ -->
 <p align="left">
-  <a href="https://www.iter.es" title="Instituto Tecnológico y de Energ&iacute;as Renovables (ITER) / Institute of Technology and Renewable Energy (ITER)">
-    <img src="[https://github.com/genomicsITER/monkeypox/blob/main/images/logos_GH.png](https://github.com/genomicsITER/monkeypox/blob/main/images/logos_GH.png)" width="75%" /> 
-    
-  </a>
+  <a href="https://github.com/genomicsITER/monkeypox" title="Instituto Tecnológico y de Energ&iacute;as Renovables (ITER) / Institute of Technology and Renewable Energy (ITER)">
+    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/logos_GH.png" width="75%" /> 
+      </a>
 </p>
 
 # Monkeypox
