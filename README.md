@@ -241,8 +241,8 @@ We acknowledge in [Table 1 (EXCEL file)](https://github.com/genomicsITER/monkeyp
 
 We also gratefully acknowledge the authors, originating and submitting laboratories of the genetic sequences and metadata for sharing their work as shown in [Nextstrain](https://nextstrain.org/monkeypox) and:
 <ul>
-<li>Hadfield et al, Nextstrain: real-time tracking of pathogen evolution, Bioinformatics (2018)</li>
-  <li>Sagulenko et al, TreeTime: Maximum-likelihood phylodynamic analysis, Virus Evolution (2017)</li>
+  <li>Hadfield <i>et al</i>, Nextstrain: real-time tracking of pathogen evolution, Bioinformatics (2018)</li>
+  <li>Sagulenko <i>et al</i>, TreeTime: Maximum-likelihood phylodynamic analysis, Virus Evolution (2017)</li>
 </ul>
 
 And we also want to thank the contributions of a number of researchers and laboratories sharing their preliminary results through the [Virological](https://virological.org/) website.
