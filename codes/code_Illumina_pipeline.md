@@ -51,8 +51,9 @@ This is the result of an ongoing joint-effort of the following institutions and 
 <li><a href="#8">8. Phylogenetic Analysis</a></li>
 </ul>
 
+<hr>
+
 <a name="1"></a>
-### Code for Illumina short-reads processing
 #### 1. FASTQ Aggregation and Interleaving with BBMap:
 ```Bash
 # Aggregate R1 (forward) FASTQ files:
