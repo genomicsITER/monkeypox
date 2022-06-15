@@ -25,7 +25,8 @@ This is the result of an ongoing joint-effort of the following institutions and 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-# Table of contents #
+# Code for Illumina short-reads processing #
+## Table of contents ##
 <ul>
 <li><a href="#1">1. FASTQ Aggregation and Interleaving with BBMap</a></li>
 <li><a href="#2">2. Human reads Scrubbing</a></li>
@@ -49,8 +50,6 @@ This is the result of an ongoing joint-effort of the following institutions and 
 <li><a href="#7">7. Multisample Alignment with MAFFT</a></li>
 <li><a href="#8">8. Phylogenetic Analysis</a></li>
 </ul>
-
-<hr>
 
 <a name="1"></a>
 ### Code for Illumina short-reads processing
@@ -255,3 +254,8 @@ lofreq call -f ${reference} -o ${outfile} ${infile}
 #In preparation...
 ```
 
+  <p align="right">
+  <a href="#Monkeypox" title="Up">
+    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
