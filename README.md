@@ -69,15 +69,14 @@ A post with the draft of the first genome sequence of Monkeypox virus associated
   </a>
 </p>
 
+<hr>
+
 <a name="Code-Illumina"></a>
 **Code for Illumina short-reads processing**
-```Bash
-#!/bin/bash
 
-code here
+See a detailed pipeline with examples of command usage for [Illumina short-reads](https://github.com/genomicsITER/monkeypox/blob/main/codes/code_Illumina_pipeline.md)
 
-# End of script
-```
+<hr>
 
 <a name="Code-ONT"></a>
 **Code for Nanopore long-reads processing and hybrid *de novo* assemby**
