@@ -39,7 +39,7 @@ This is the result of a continuous collaborative effort of the following Institu
   <li><a href="#References">References</a></li>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
   <li><a href="#License and Attribution">License and Attribution</a></li>
-  <li><a href="#Contribute to this repository">Contribute to this repository</a></li>
+  <li><a href="#Participating">Participating</a></li>
   <li><a href="#Update logs">Update logs</a></li>
 </ul>
 
@@ -272,8 +272,8 @@ Please cite as: _"Monkeypox repository of the Reference Laboratory for Epidemiol
 <hr>
 <!-- ------------------ SECTION 7 ------------------ -->
 
-<a name="Contribute to this repository"></a>
-## Contribute to this repository ##
+<a name="Participating"></a>
+## Participating ##
 
 > Want to share your relevant links? Place a Direct Message to @labcflores, @adrmunozb or @resocios on Twitter (see below).
 
