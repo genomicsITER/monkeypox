@@ -77,7 +77,7 @@ In the upper part of the diagram, you will find a typical pipeline to process sh
 
 In the lower part of the diagram, it is shown a typical pipeline to process long-reads. In addition, we show how to perform a hybrid *de novo* assembly combining short- and long-reads.
 
-We have obtained and deposited in NCBI GenBank two consensus sequences:
+Two consensus MPXV sequences have been obtained and deposited in NCBI GenBank following the described pipeline:
 <ul>
   <li>A FASTA sequence derived from the pipeline based on mapping of Illumina short-reads against a MPXV reference genome.</li>
   <li>A FASTA sequence resulting from the consensus of the hybrid *de novo* assembly and a MPXV reference genome to complete uncovered regions.</li>
