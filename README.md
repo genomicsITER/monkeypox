@@ -78,7 +78,7 @@ In the lower part of the diagram it is shown a typical pipeline to process long-
 We have obtained and deposited in NCBI GenBank two consensus sequences:
 <ul>
   <li>A FASTA sequence derived from the pipeline based on mapping of Illumina short-reads against a Monkeypox reference genome.</li>
-  <li>A FASTA sequence resultin from the consensus of the hybrid *de novo* assembly and a Monkeypox reference genome to complete uncovered regions.</li>
+  <li>A FASTA sequence resulting from the consensus of the hybrid *de novo* assembly and a Monkeypox reference genome to complete uncovered regions.</li>
 </ul>
 
 <p align="center">
