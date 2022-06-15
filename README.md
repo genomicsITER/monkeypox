@@ -187,6 +187,7 @@ Kraemer MUG, Tegally H, Pigott DM, et al. Tracking the 2022 monkeypox outbreak w
 
 Mucker EM, Hartmann C, Hering D, et al. Validation of a pan-orthopox real-time PCR assay for the detection and quantification of viral genomes from nonhuman primate blood. Virol J. 2017;14(1):210. Published 2017 Nov 3. doi:10.1186/s12985-017-0880-8
 
+
 > Preprint papers
 
 Enhanced surveillance of monkeypox in Bas-Uélé, Democratic Republic of Congo: the limitations of symptom-based case definitions
