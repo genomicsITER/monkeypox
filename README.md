@@ -77,7 +77,7 @@ We have obtained and deposited in NCBI GenBank two consensus sequences:
 
 <p align="center">
   <a href="https://www.iter.es" title="Instituto Tecnológico y de Energ&iacute;as Renovables (ITER) / Institute of Technology and Renewable Energy (ITER)">
-    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/MPXV_pipeline_v1.png" width="75%" /> 
+    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/MPXV_pipeline_v1.png" width="auto" /> 
   </a>
 </p>
 
