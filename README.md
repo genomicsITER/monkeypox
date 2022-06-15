@@ -126,7 +126,7 @@ See a detailed pipeline with examples of command usage for [Oxford Nanopore Tech
 <li>Mapping of short-reads: <a href="http://bowtie-bio.sourceforge.net/bowtie2/index.shtml">Bowtie2 v.2.4.5</a></li>
 <li>Mapping of short-reads: <a href="https://github.com/lh3/bwa/">BWA v.0.7.17-r1188</a></li>
 <li>Framework for analyses and visualization of pathogen genome data (Nextstraing-monkeypox in this case): <a href="https://github.com/nextstrain/monkeypox">Nextstrain</a></li>
-<li>Assembler: <a href="https://github.com/rrwick/Unicycler/">Unicycler v.0.5.0</a></li>
+<li>Assembly: <a href="https://github.com/rrwick/Unicycler/">Unicycler v.0.5.0</a></li>
 <li>Benchmarking and quality control of assemblies: <a href="http://quast.sourceforge.net/">QUAST v.5.0.2</a></li>
 <li>Visualization of assemblies: <a href="https://rrwick.github.io/Bandage/">Bandage v.0.9.0</a></li>
 <li>Visualization of Kraken 2 reports: <a href="https://ccb.jhu.edu/software/pavian/">Pavian v.1.0</a></li>
