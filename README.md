@@ -30,13 +30,17 @@ This is the result of an ongoing joint-effort of the following institutions and 
 
 # Table of contents #
 <ul>
-  <li><a href="#Virological">Virological post: A draft of the first genome sequence of Monkeypox virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain</a></li>
-  <li><a href="#ilink2">Bioinformatic pipelines</a></li>
-  <li><a href="#ilink3">Sequences</a></li>
-  <li><a href="#ilink4">References</a></li>
-  <li><a href="#ilink5">Acknowledgements</a></li>
-  <li><a href="#ilink6">License and Attribution</a></li>  
-  </ul>
+  <li><a href="#Virological posts">Virological post: A draft of the first genome sequence of Monkeypox virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain</a></li>
+  <li><a href="#Bioinformatic pipelines">Bioinformatic pipelines</a></li>
+  <li><a href="#Sequences">Sequences</a></li>
+  <li><a href="#References">References</a></li>
+  <li><a href="#Acknowledgements">Acknowledgements</a></li>
+  <li><a href="#License and Attribution">License and Attribution</a></li>
+  <li><a href="#Contact us">Contact us</a></li>
+  <li><a href="#Contributing">Contributing to this repository</a></li>
+  <li><a href="#Code of Conduct">Code of Conduct</a></li>
+  <li><a href="#Update logs">Update logs</a></li>
+</ul>
 
 <hr>
 <!-- ------------------ SECTION 1 ------------------ -->
@@ -55,7 +59,7 @@ This is the result of an ongoing joint-effort of the following institutions and 
 <hr>
 <!-- ------------------ SECTION 2 ------------------ -->
 
-<a name="ilink2"></a>
+<a name="Bioinformatic pipelines"></a>
 ## Bioinformatic pipelines ##
 
 <p align="center">
@@ -118,7 +122,7 @@ code here
 <hr>
 <!-- ------------------ SECTION 3 ------------------ -->
 
-<a name="ilink3"></a>
+<a name="Sequences"></a>
 ## Sequences ##
 
 > Consensus FASTA file obtained from Illumina short-reads mapping to [MT903344.1](https://www.ncbi.nlm.nih.gov/nuccore/MT903344.1). See [Virological post for more details](https://virological.org/)
@@ -138,7 +142,7 @@ code here
 <hr>
 <!-- ------------------ SECTION 4 ------------------ -->
 
-<a name="ilink4"></a>
+<a name="References"></a>
 ## References ##
 
 [This is an external link](https://github.com/genomicsITER/monkeypox)
@@ -205,7 +209,7 @@ medRxiv 2022.06.03.22275815; doi: https://doi.org/10.1101/2022.06.03.22275815
 <hr>
 <!-- ------------------ SECTION 5 ------------------ -->
 
-<a name="ilink5"></a>
+<a name="Acknowledgements"></a>
 ## Acknowledgements ##
 
 This study has been funded by Cabildo Insular de Tenerife (CGIEU0000219140 and "Apuestas científicas del ITER para colaborar en la lucha contra la COVID-19"), Instituto de Salud Carlos III (FI18/00230) cofunded by European Union (ERDF) "A way of making Europe", and and by the agreement with Instituto Tecnológico y de Energías Renovables (ITER) to strengthen scientific and technological education, training, research, development and innovation in Genomics, Personalized Medicine and Biotechnology (OA17/008).
@@ -230,7 +234,7 @@ And we also want to thank the contributions of a number of researchers and labor
 <hr>
 <!-- ------------------ SECTION 6 ------------------ -->
 
-<a name="ilink6"></a>
+<a name="License and Attribution"></a>
 ## License and Attribution ##
 
 This repository and data exports are published under the CC BY 4.0 license. Please, acknowledge authors, originating and submitting laboratories of the genetic sequences and metadata and open source software used in this work.
@@ -242,3 +246,54 @@ Please cite as: "Monkeypox repository of the Refence Laboratory for the Epidemio
     <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
+
+
+<hr>
+<!-- ------------------ SECTION 7 ------------------ -->
+
+<a name="License and Attribution"></a>
+## License and Attribution ##
+
+This repository and data exports are published under the CC BY 4.0 license. Please, acknowledge authors, originating and submitting laboratories of the genetic sequences and metadata and open source software used in this work.
+
+Please cite as: "Monkeypox repository of the Refence Laboratory for the Epidemiological Surveillance of Pathogens in the Canary Islands (accessed on YYYY-MM-DD)".
+
+<p align="right">
+  <a href="#Monkeypox" title="Up">
+    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+
+<hr>
+<!-- ------------------ SECTION 8 ------------------ -->
+
+<a name="Contact us"></a>
+## Contact us ##
+> Want to contact us? We highly encourage people to contribute to this Monkeypox repository (and acknowledged in the section above). Please, send me a Direct Message on Twitter (see below).
+
+ <p align="left">
+  <a href="https://www.iter.es/areas/area-genomica/" title="Contact us at the Genomics Division of the Institute of Technology and Renewable Energy (ITER), Tenerife, Canary Islands, Spain">
+    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/ITER_logo.png" width="30%" /> 
+  </a>
+</p>
+
+By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+
+
+<hr>
+<!-- ------------------ SECTION 9 ------------------ -->
+
+<a name="Update logs"></a>
+## Update logs ##
+
+> June 13, 2022 updates. Repository open. Enjoy the reading! ;=)
+
+<p align="right">
+  <a href="#Monkeypox" title="Up">
+    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+
+
