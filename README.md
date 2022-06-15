@@ -207,9 +207,13 @@ medRxiv 2022.06.03.22275815; doi: https://doi.org/10.1101/2022.06.03.22275815
 
 This study has been funded by Cabildo Insular de Tenerife (CGIEU0000219140 and "Apuestas científicas del ITER para colaborar en la lucha contra la COVID-19"), Instituto de Salud Carlos III (FI18/00230) cofunded by European Union (ERDF) "A way of making Europe", and and by the agreement with Instituto Tecnológico y de Energías Renovables (ITER) to strengthen scientific and technological education, training, research, development and innovation in Genomics, Personalized Medicine and Biotechnology (OA17/008).
 
-We acknowledge the researchers and their institutions who released the Monkeypox sequences through NCBI GenBank that are being used in 
-[Table 1 (EXCEL file)](https://github.com/genomicsITER/monkeypox/blob/main/tables/table1.xlsx).
+We acknowledge in [Table 1 (EXCEL file)](https://github.com/genomicsITER/monkeypox/blob/main/tables/table1.xlsx) the researchers and their institutions who released the Monkeypox sequences through NCBI GenBank that are being used in our studies. 
 
+We also gratefully acknowledge the authors, originating and submitting laboratories of the genetic sequences and metadata for sharing their work as shown in [Nextstraing](https://nextstrain.org/monkeypox) and:
+
+Hadfield et al, Nextstrain: real-time tracking of pathogen evolution, Bioinformatics (2018)
+
+Sagulenko et al, TreeTime: Maximum-likelihood phylodynamic analysis, Virus Evolution (2017)
 
 
 <p align="right">
