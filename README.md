@@ -73,7 +73,11 @@ This is the result of a joint-effort of the following institutions and laborator
 <a name="ilink3"></a>
 ## Sequences ##
 
-[This is an external link](https://github.com/genomicsITER/monkeypox)
+Consensus FASTA file obtained from Illumina short-reads mapping to [MT903344.1](https://www.ncbi.nlm.nih.gov/nuccore/MT903344.1). See [Virological post for more details](https://virological.org/)
+
+[HUNSC_ITER_MPXV01.fasta](https://github.com/genomicsITER/monkeypox/blob/main/sequences/HUNSC_ITER_MPXV01.fasta)
+
+
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
