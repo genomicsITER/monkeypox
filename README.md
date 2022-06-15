@@ -80,13 +80,10 @@ See a detailed pipeline with examples of command usage for [Illumina short-reads
 
 <a name="Code-ONT"></a>
 **Code for Nanopore long-reads processing and hybrid *de novo* assemby**
-```Bash
-#!/bin/bash
 
-code here
+See a detailed pipeline with examples of command usage for [Oxford Nanopore Technology long-reads](https://github.com/genomicsITER/monkeypox/blob/main/codes/code_ONT-and-HybridAssembly_pipeline.md)
 
-# End of script
-```
+<hr>
 
 <a name="List-of-software"></a>
 **List of bioinformatic software used in our pipelines**
