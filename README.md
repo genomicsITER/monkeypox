@@ -49,7 +49,9 @@ This is the result of a continuous collaborative effort of the following Institu
 <a name="Virological posts"></a>
 ## Virological posts ##
 
-A post with the draft of the first genome sequence of Monkeypox virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain will be published shortly in Virological. Keep watching! [Here.](https://github.com/genomicsITER/monkeypox)
+A technical post with the draft of the first genome sequence of Monkeypox virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain will be published shortly in Virological. Keep watching! [Here.](https://github.com/genomicsITER/monkeypox)
+
+A publication with the draft of the first genome sequence of the monkeypox virus associated with the May 2022 multinational outbreak in the Canary Islands, Spain, will be published soon in Virological. Keep watching!
 
 The first genome sequence of Monkeypox virus described by us in Virological is phylogenetically related to the multiple viral genomes deposited in NCBI GenBank that correspond to the actual 2022 worldwide outbreak, as shown in Figure 1.
 
