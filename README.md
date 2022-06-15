@@ -86,6 +86,7 @@ code here
 
 **List of bioinformatic software used in our pipelines**
 <ul>
+<li>Conda manual for installation of numerous open-source tools used in these pipelines:<a href="https://docs.conda.io/en/latest/">Conda documentation</a></li>
 <li>Reformat FASTQ files to get an interleaved FASTQ file: <a href="https://sourceforge.net/projects/bbmap/">BBMap tools v.38.96</a></li>
 <li>Remove Human mapping-reads from your FASTQ files: <a href="https://github.com/ncbi/sra-human-scrubber/">NCBI SRA Human Scrubber v.1.0.2021_05_05</a></li>
 <li>Remove Human mapping-reads from your FASTQ files: <a href="https://ccb.jhu.edu/software/kraken2/">Kraken2 v.2.1.2</a></li>
