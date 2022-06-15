@@ -245,7 +245,7 @@ We also thank the authors, the laboratories that originated and submitted the ge
   <li>Sagulenko <i>et al</i>, TreeTime: Maximum-likelihood phylodynamic analysis, Virus Evolution (2017)</li>
 </ul>
 
-And we also want to thank the contributions of a number of researchers and laboratories sharing their preliminary results through the [Virological](https://virological.org/) website.
+We would like to acknowledge the contributions of several researchers and laboratories who share their preliminary results through the Virological](https://virological.org/) website.
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
