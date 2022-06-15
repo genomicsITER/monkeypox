@@ -26,8 +26,6 @@ This is the result of an ongoing joint-effort of the following institutions and 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> June updates. Created the public version of this repository. Enjoy the reading! ;=)
-
 # Table of contents #
 <ul>
   <li><a href="#Virological posts">Virological post: A draft of the first genome sequence of Monkeypox virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain</a></li>
@@ -285,7 +283,7 @@ By AMB <a href="https://twitter.com/adrmunozb" title="Follow to @resocios on Twi
 <a name="Update logs"></a>
 ## Update logs ##
 
-> June 13, 2022 updates. Repository open. Enjoy the reading! ;=)
+> June 13, 2022 updates. Created the public version of this repository. Enjoy the reading! ;=)
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
