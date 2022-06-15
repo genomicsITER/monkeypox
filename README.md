@@ -84,7 +84,9 @@ code here
 
 **List of bioinformatic software used in our pipelines**
 <ul>
-<li>Reformat FASTQ files to get an interleaved FASTQ file: [BBMap tools v.38.96](https://sourceforge.net/projects/bbmap/)</li>
+<li>
+  Reformat FASTQ files to get an interleaved FASTQ file: [BBMap tools v.38.96](https://sourceforge.net/projects/bbmap/)
+  </li>
 <li>Remove Human mapping-reads from your FASTQ files: [NCBI SRA Human Scrubber v.1.0.2021_05_05](https://github.com/ncbi/sra-human-scrubber/)</li>
 <li>Remove Human mapping-reads from your FASTQ files: [Kraken2 v.2.1.2](https://ccb.jhu.edu/software/kraken2/)</li>
 <li>Programming environment of general purpose: [R v.4.1.3](https://www.r-project.org/)</li>
