@@ -36,6 +36,7 @@ This is the result of an ongoing joint-effort of the following institutions and 
   <li><a href="#ilink3">Sequences</a></li>
   <li><a href="#ilink4">References</a></li>
   <li><a href="#ilink5">Acknowledgements</a></li>
+  <li><a href="#ilink6">License and Attribution</a></li>  
   </ul>
 
 <hr>
@@ -219,6 +220,23 @@ We also gratefully acknowledge the authors, originating and submitting laborator
 </ul>
 
 And we also want to thank the contributions of a number of researchers and laboratories sharing their preliminary results through the [Virological](https://virological.org/) website.
+
+<p align="right">
+  <a href="#Monkeypox" title="Up">
+    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+
+<hr>
+<!-- ------------------ SECTION 6 ------------------ -->
+
+<a name="ilink6"></a>
+## License and Attribution ##
+
+This repository and data exports are published under the CC BY 4.0 license. Please, acknowledge authors, originating and submitting laboratories of the genetic sequences and metadata and open source software used in this work.
+
+Please cite as: "Monkeypox repository of the Refence Laboratory for the Epidemiological Surveillance of Pathogens in the Canary Islands (accessed on YYYY-MM-DD)".
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
