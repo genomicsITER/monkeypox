@@ -63,6 +63,18 @@ A post with the draft of the first genome sequence of Monkeypox virus associated
 <a name="Bioinformatic pipelines"></a>
 ## Bioinformatic pipelines ##
 
+The following diagram represents a full pipeline used to derive the consensus FASTA sequence of Monkeypox virus using and combining short- and long-reads technologies (Illumina and Nanopore, respectively).
+
+In the upper part of the diagram you will find a typical pipeline to process short-reads, from the basecalling to the final consensus FASTA sequence, and downstream analysis such as the phylogenetic inference.
+
+In the lower part of the diagram it is shown a typical pipeline to process long-reads. In addition, we show how to perform a hybrid *de novo* assembly combining short- and long-reads.
+
+We have obtained and deposited in NCBI GenBank two consensus sequences:
+<ul>
+  <li>A FASTA sequence derived from the pipeline based on mapping of Illumina short-reads against a Monkeypox reference genome.</li>
+  <li>A FASTA sequence resultin from the consensus of the hybrid *de novo* assembly and a Monkeypox reference genome to complete uncovered regions.</li>
+</ul>
+
 <p align="center">
   <a href="https://www.iter.es" title="Instituto Tecnológico y de Energ&iacute;as Renovables (ITER) / Institute of Technology and Renewable Energy (ITER)">
     <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/MPXV_pipeline_v1.png" width="75%" /> 
@@ -74,14 +86,14 @@ A post with the draft of the first genome sequence of Monkeypox virus associated
 <a name="Code-Illumina"></a>
 **Code for Illumina short-reads processing**
 
-See a detailed pipeline with examples of command usage for [Illumina short-reads](https://github.com/genomicsITER/monkeypox/blob/main/codes/code_Illumina_pipeline.md)
+See a detailed pipeline with examples of command usage for [Illumina short-reads](https://github.com/genomicsITER/monkeypox/blob/main/codes/code_Illumina_pipeline.md).
 
 <hr>
 
 <a name="Code-ONT"></a>
 **Code for Nanopore long-reads processing and hybrid *de novo* assemby**
 
-See a detailed pipeline with examples of command usage for [Oxford Nanopore Technology long-reads](https://github.com/genomicsITER/monkeypox/blob/main/codes/code_ONT-and-HybridAssembly_pipeline.md)
+See a detailed pipeline with examples of command usage for [Oxford Nanopore Technology long-reads](https://github.com/genomicsITER/monkeypox/blob/main/codes/code_ONT-and-HybridAssembly_pipeline.md).
 
 <hr>
 
