@@ -87,7 +87,23 @@ This is the result of a joint-effort of the following institutions and laborator
 
 [HUNSC_ITER_MPXV01_ILMN-ONT_hybrid_assembly.fasta](https://github.com/genomicsITER/monkeypox/blob/main/sequences/HUNSC_ITER_MPXV01_ILMN-ONT_hybrid_assembly.fasta)
 
+**Excerpt of Code for Illumina short-reads processing**
+```Bash
+#!/bin/bash
 
+code here
+
+# End of script
+```
+
+**Excerpt of Code for Nanopore long-reads processing**
+```Bash
+#!/bin/bash
+
+code here
+
+# End of script
+```
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
