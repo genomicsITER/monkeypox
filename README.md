@@ -58,10 +58,7 @@ This is the result of a joint-effort of the following institutions and laborator
 <a name="ilink2"></a>
 ## Bioinformatic pipelines ##
 
-[This is an external link](https://github.com/genomicsITER/monkeypox)
-
-    <img src="[https://github.com/genomicsITER/monkeypox/blob/main/images/ITER_logo.png](https://github.com/genomicsITER/monkeypox/blob/main/images/MPXV_pipeline_v1.png)" width="30%" /> 
-
+    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/MPXV_pipeline_v1.png" style="float: right; margin: 10px; padding: 2px;" />
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
