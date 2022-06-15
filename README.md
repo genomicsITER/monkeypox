@@ -60,6 +60,9 @@ This is the result of a joint-effort of the following institutions and laborator
 
 [This is an external link](https://github.com/genomicsITER/monkeypox)
 
+    <img src="[https://github.com/genomicsITER/monkeypox/blob/main/images/ITER_logo.png](https://github.com/genomicsITER/monkeypox/blob/main/images/MPXV_pipeline_v1.png)" width="30%" /> 
+
+
 <p align="right">
   <a href="#Monkeypox" title="Up">
     <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
