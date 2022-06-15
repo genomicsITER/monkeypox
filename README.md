@@ -114,7 +114,7 @@ See a detailed pipeline with examples of command usage for [Oxford Nanopore Tech
 <li>Phylogenomic inference and tree computing: <a href="http://www.iqtree.org/">IQ-TREE v.2.2.0.3</a></li>
 <li>Mapping of short-reads: <a href="https://github.com/lh3/minimap2/">Minimap2 v.2.24-r1122</a></li>
 <li>Mapping of short-reads: <a href="http://bowtie-bio.sourceforge.net/bowtie2/index.shtml">Bowtie2 v.2.4.5</a></li>
-<li>Mapping of short-reads: [BWA v.0.7.17-r1188<a href="https://github.com/lh3/bwa/"></a></li>
+<li>Mapping of short-reads: <a href="https://github.com/lh3/bwa/">BWA v.0.7.17-r1188</a></li>
 <li>Framework for analyses and visualization of pathogen genome data (Monkeypox in this case): <a href="https://github.com/nextstrain/monkeypox">Nextstrain</a></li>
 <li>Assembler: <a href="https://github.com/rrwick/Unicycler/">Unicycler v.0.5.0</a></li>
 <li>Benchmarking and quality control of assemblies: <a href="http://quast.sourceforge.net/">QUAST v.5.0.2</a></li>
