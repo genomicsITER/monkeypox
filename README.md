@@ -32,6 +32,11 @@ This is the result of an ongoing joint-effort of the following institutions and 
 <ul>
   <li><a href="#Virological posts">Virological post: A draft of the first genome sequence of Monkeypox virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain</a></li>
   <li><a href="#Bioinformatic pipelines">Bioinformatic pipelines</a></li>
+    <ul>
+    <li><a href="#Code-Illumina">Code for Illumina short-reads processing</a></li>
+    <li><a href="#Code-ONT">Code for Nanopore long-reads processing and hybrid de novo assemby</a></li>
+    <li><a href="#List-of-software">List of bioinformatic software used in our pipelines</a></li>
+  </ul>
   <li><a href="#Sequences">Sequences</a></li>
   <li><a href="#References">References</a></li>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
@@ -43,7 +48,7 @@ This is the result of an ongoing joint-effort of the following institutions and 
 <hr>
 <!-- ------------------ SECTION 1 ------------------ -->
 
-<a name="ilink1"></a>
+<a name="Virological posts"></a>
 ## Virological posts ##
 
 [This is an external link](https://github.com/genomicsITER/monkeypox)
@@ -66,7 +71,8 @@ This is the result of an ongoing joint-effort of the following institutions and 
   </a>
 </p>
 
-**Excerpt of Code for Illumina short-reads processing**
+<a name="Code-Illumina"></a>
+**Code for Illumina short-reads processing**
 ```Bash
 #!/bin/bash
 
@@ -75,7 +81,8 @@ code here
 # End of script
 ```
 
-**Excerpt of Code for Nanopore long-reads processing**
+<a name="Code-ONT"></a>
+**Code for Nanopore long-reads processing and hybrid de novo assemby**
 ```Bash
 #!/bin/bash
 
@@ -84,6 +91,7 @@ code here
 # End of script
 ```
 
+<a name="List-of-software"></a>
 **List of bioinformatic software used in our pipelines**
 <ul>
 <li>Conda manual for installation of numerous open-source tools used in these pipelines:<a href="https://docs.conda.io/en/latest/">Conda documentation</a></li>
