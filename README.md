@@ -15,7 +15,7 @@
 # Monkeypox
 A public repository of **Monkeypox** related resources maintained by ITER.
 
-This is the result of an ongoing joint-effort of the following institutions and laboratories:
+This is the result of a continuous collaborative effort of the following Institutions and Laboratories:
 <ul>
  <li><a href="https://www3.gobiernodecanarias.org/sanidad/scs/organica.jsp?idCarpeta=10b3ea46-541b-11de-9665-998e1388f7ed">Servicio de Microbiología, Hospital Universitario Ntra. Sra. de Candelaria</a>, 38010 Santa Cruz de Tenerife, Spain.</li>
  <li><a href="https://fciisc.org/">Fundación Canaria Instituto de Investigación Sanitaria de Canarias</a> at the Research Unit, Hospital Universitario Ntra. Sra. de Candelaria</a>, 38010 Santa Cruz de Tenerife, Spain.</li>
