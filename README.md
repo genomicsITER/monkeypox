@@ -250,7 +250,7 @@ Please cite as: "Monkeypox repository of the Refence Laboratory for the Epidemio
 <!-- ------------------ SECTION 7 ------------------ -->
 
 <a name="Contributing. Contact us"></a>
-## Contact us ##
+## Contributing. Contact us ##
 
 > Want to share your relevant links? Place a Direct Message to @resocios or adrmunozb on Twitter (see below).
 
@@ -260,8 +260,8 @@ Please cite as: "Monkeypox repository of the Refence Laboratory for the Epidemio
   </a>
 </p>
 
-By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
-By AMB <a href="https://twitter.com/adrmunozb" title="Follow to @resocios on Twitter" >@adrmunozb <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+By AMB <a href="https://twitter.com/adrmunozb" title="Follow to @resocios on Twitter" >@adrmunozb <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a> and JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
