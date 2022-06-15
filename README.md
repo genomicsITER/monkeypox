@@ -88,7 +88,7 @@ code here
 <li>Remove Human mapping-reads from your FASTQ files: <a href="https://github.com/ncbi/sra-human-scrubber/">NCBI SRA Human Scrubber v.1.0.2021_05_05</a></li>
 <li>Remove Human mapping-reads from your FASTQ files: <a href="https://ccb.jhu.edu/software/kraken2/">Kraken2 v.2.1.2</a></li>
 <li>Programming environment of general purpose: <a href="https://www.r-project.org/">R v.4.1.3</a></li>
-<li>>Compute the depth of coverage and other statistics: <a href="https://github.com/brentp/mosdepth/"Mosdepth v.0.3.3</a></li>
+<li>Compute the depth of coverage and other statistics: <a href="https://github.com/brentp/mosdepth/"Mosdepth v.0.3.3</a></li>
 <li>Compute de number of duplicates and other statistics: <a href="https://broadinstitute.github.io/picard/">Picard Tools v.2.18.7</a></li>
 <li>Perform the variant calling and consensus: <a href="https://github.com/andersen-lab/ivar/">iVar v.1.3.1</a></li>
 <li>Perform the variant calling: <a href="https://csb5.github.io/lofreq/">LoFreq v.2.1.5</a></li>
