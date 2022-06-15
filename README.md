@@ -49,7 +49,7 @@ This is the result of an ongoing joint-effort of the following institutions and 
 <a name="Virological posts"></a>
 ## Virological posts ##
 
-[This is an external link](https://github.com/genomicsITER/monkeypox)
+A post with the draft of the first genome sequence of Monkeypox virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain will be published shortly in Virological. Keep watching! [Here.](https://github.com/genomicsITER/monkeypox)
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
