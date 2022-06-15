@@ -255,7 +255,7 @@ Please cite as: "Monkeypox repository of the Refence Laboratory for the Epidemio
 <a name="Contributing. Contact us"></a>
 ## Contributing. Contact us ##
 
-> Want to share your relevant links? Place a Direct Message to @resocios or @adrmunozb on Twitter (see below).
+> Want to share your relevant links? Place a Direct Message to @labcflores, @adrmunozb or @resocios on Twitter (see below).
 
  <p align="left">
   <a href="https://www.iter.es/areas/area-genomica/" title="Contact us at the Genomics Division of the Institute of Technology and Renewable Energy (ITER), Tenerife, Canary Islands, Spain">
@@ -265,6 +265,7 @@ Please cite as: "Monkeypox repository of the Refence Laboratory for the Epidemio
 
 By AMB <a href="https://twitter.com/adrmunozb" title="Follow to @resocios on Twitter" >@adrmunozb <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a> and JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
+Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @labcflores on Twitter" > @labcflores<img src="https://github.com/genomicsITER/monkeypox/blob/main/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
