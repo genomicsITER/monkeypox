@@ -13,7 +13,7 @@
 </p>
 
 # Monkeypox
-A public repository of **Monkeypox** related resources maintained by ITER.
+A public repository of **Monkeypox** (MPXV) related resources maintained by ITER.
 
 This is the result of a continuous collaborative effort of the following Institutions and Laboratories:
 <ul>
@@ -28,7 +28,7 @@ This is the result of a continuous collaborative effort of the following Institu
 
 # Table of contents #
 <ul>
-  <li><a href="#Virological posts">Virological post: A draft of the first genome sequence of Monkeypox virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain</a></li>
+  <li><a href="#Virological posts">Virological post: A draft of the first genome sequence of MPXV virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain</a></li>
   <li><a href="#Bioinformatic pipelines">Bioinformatic pipelines</a></li>
     <ul>
     <li><a href="#Code-Illumina">Code for Illumina short-reads processing</a></li>
@@ -49,15 +49,15 @@ This is the result of a continuous collaborative effort of the following Institu
 <a name="Virological posts"></a>
 ## Virological posts ##
 
-A technical post with the draft of the first genome sequence of Monkeypox virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain will be published shortly in Virological. Keep watching! [Here.](https://github.com/genomicsITER/monkeypox)
+A technical post with the draft of the first genome sequence of MPXV virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain will be published shortly in Virological. Keep watching! [Here.](https://github.com/genomicsITER/monkeypox)
 
-A publication with the draft of the first genome sequence of the monkeypox virus associated with the May 2022 multinational outbreak in the Canary Islands, Spain, will be published soon in Virological. Keep watching!
+A publication with the draft of the first genome sequence of the MPXV virus associated with the May 2022 multinational outbreak in the Canary Islands, Spain, will be published soon in Virological. Keep watching!
 
-The first genome sequence of Monkeypox virus described by us in Virological is phylogenetically related to the multiple viral genomes deposited in NCBI GenBank that correspond to the actual 2022 worldwide outbreak, as shown in Figure 1.
+The first genome sequence of MPXV virus described by us in Virological is phylogenetically related to the multiple viral genomes deposited in NCBI GenBank that correspond to the actual 2022 worldwide outbreak, as shown in Figure 1.
 
 Figure in preparation...
 
-**Figure 1**. A phylogenetic tree depicting the draft MPXV sequence isolated on May 31, 2022 from a patient from the Canary Islands along with NCBI GenBank publicly available sequences computed by a Nextstrain monkeypox local instance.
+**Figure 1**. A phylogenetic tree depicting the draft MPXV sequence isolated on May 31, 2022 from a patient from the Canary Islands along with NCBI GenBank publicly available sequences computed by a Nextstrain-monkeypox local instance.
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
@@ -71,7 +71,7 @@ Figure in preparation...
 <a name="Bioinformatic pipelines"></a>
 ## Bioinformatic pipelines ##
 
-The following diagram (Figure 2) represents a full pipeline used to derive the consensus FASTA sequence of Monkeypox virus using and combining short- and long-reads technologies (Illumina and Nanopore, respectively).
+The following diagram (Figure 2) represents a full pipeline used to derive the consensus FASTA sequence of MPXV virus using and combining short- and long-reads technologies (Illumina and Nanopore, respectively).
 
 In the upper part of the diagram, you will find a typical pipeline to process short-reads, from the basecalling to the final consensus FASTA sequence, and downstream analysis such as the phylogenetic inference.
 
@@ -79,8 +79,8 @@ In the lower part of the diagram, it is shown a typical pipeline to process long
 
 We have obtained and deposited in NCBI GenBank two consensus sequences:
 <ul>
-  <li>A FASTA sequence derived from the pipeline based on mapping of Illumina short-reads against a Monkeypox reference genome.</li>
-  <li>A FASTA sequence resulting from the consensus of the hybrid *de novo* assembly and a Monkeypox reference genome to complete uncovered regions.</li>
+  <li>A FASTA sequence derived from the pipeline based on mapping of Illumina short-reads against a MPXV reference genome.</li>
+  <li>A FASTA sequence resulting from the consensus of the hybrid *de novo* assembly and a MPXV reference genome to complete uncovered regions.</li>
 </ul>
 
 <p align="center">
@@ -89,7 +89,7 @@ We have obtained and deposited in NCBI GenBank two consensus sequences:
   </a>
 </p>
 
-**Figure 2**. Full bioinformatic pipeline to obtain the Monkeypox sequences and to infer phylogenetic relationships with other Monkeypox viral genomes available through out public repositories.
+**Figure 2**. Full bioinformatic pipeline to obtain the MPXV sequences and to infer phylogenetic relationships with other MPXV viral genomes available through out public repositories.
 
 <hr>
 
@@ -125,7 +125,7 @@ See a detailed pipeline with examples of command usage for [Oxford Nanopore Tech
 <li>Mapping of short-reads: <a href="https://github.com/lh3/minimap2/">Minimap2 v.2.24-r1122</a></li>
 <li>Mapping of short-reads: <a href="http://bowtie-bio.sourceforge.net/bowtie2/index.shtml">Bowtie2 v.2.4.5</a></li>
 <li>Mapping of short-reads: <a href="https://github.com/lh3/bwa/">BWA v.0.7.17-r1188</a></li>
-<li>Framework for analyses and visualization of pathogen genome data (Monkeypox in this case): <a href="https://github.com/nextstrain/monkeypox">Nextstrain</a></li>
+<li>Framework for analyses and visualization of pathogen genome data (Nextstraing-monkeypox in this case): <a href="https://github.com/nextstrain/monkeypox">Nextstrain</a></li>
 <li>Assembler: <a href="https://github.com/rrwick/Unicycler/">Unicycler v.0.5.0</a></li>
 <li>Benchmarking and quality control of assemblies: <a href="http://quast.sourceforge.net/">QUAST v.5.0.2</a></li>
 <li>Visualization of assemblies: <a href="https://rrwick.github.io/Bandage/">Bandage v.0.9.0</a></li>
@@ -237,7 +237,7 @@ medRxiv 2022.06.03.22275815; doi: https://doi.org/10.1101/2022.06.03.22275815
 
 This study has been funded by Cabildo Insular de Tenerife (CGIEU0000219140 and "Apuestas científicas del ITER para colaborar en la lucha contra la COVID-19"), Instituto de Salud Carlos III (FI18/00230) cofunded by European Union (ERDF) "A way of making Europe", and and by the agreement with Instituto Tecnológico y de Energías Renovables (ITER) to strengthen scientific and technological education, training, research, development and innovation in Genomics, Personalized Medicine and Biotechnology (OA17/008).
 
-We acknowledge in [Table 1 (EXCEL file)](https://github.com/genomicsITER/monkeypox/blob/main/tables/table1.xlsx) the researchers and their institutions who released the Monkeypox sequences through NCBI GenBank that are being used in our studies. 
+We acknowledge in [Table 1 (EXCEL file)](https://github.com/genomicsITER/monkeypox/blob/main/tables/table1.xlsx) the researchers and their institutions who released the MPXV sequences through NCBI GenBank that are being used in our studies. 
 
 We also gratefully acknowledge the authors, originating and submitting laboratories of the genetic sequences and metadata for sharing their work as shown in [Nextstrain](https://nextstrain.org/monkeypox) and:
 <ul>
