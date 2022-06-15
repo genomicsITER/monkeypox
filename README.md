@@ -36,9 +36,7 @@ This is the result of an ongoing joint-effort of the following institutions and 
   <li><a href="#References">References</a></li>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
   <li><a href="#License and Attribution">License and Attribution</a></li>
-  <li><a href="#Contact us">Contact us</a></li>
-  <li><a href="#Contributing">Contributing to this repository</a></li>
-  <li><a href="#Code of Conduct">Code of Conduct</a></li>
+  <li><a href="#Contributing. Contact us">Contributing. Contact us</a></li>
   <li><a href="#Update logs">Update logs</a></li>
 </ul>
 
@@ -205,6 +203,7 @@ medRxiv 2022.06.03.22275815; doi: https://doi.org/10.1101/2022.06.03.22275815
   </a>
 </p>
 
+
 <hr>
 <!-- ------------------ SECTION 5 ------------------ -->
 
@@ -250,12 +249,19 @@ Please cite as: "Monkeypox repository of the Refence Laboratory for the Epidemio
 <hr>
 <!-- ------------------ SECTION 7 ------------------ -->
 
-<a name="License and Attribution"></a>
-## License and Attribution ##
+<a name="Contributing. Contact us"></a>
+## Contact us ##
 
-This repository and data exports are published under the CC BY 4.0 license. Please, acknowledge authors, originating and submitting laboratories of the genetic sequences and metadata and open source software used in this work.
+> Want to share your relevant links? Place a Direct Message to @resocios or adrmunozb on Twitter (see below).
 
-Please cite as: "Monkeypox repository of the Refence Laboratory for the Epidemiological Surveillance of Pathogens in the Canary Islands (accessed on YYYY-MM-DD)".
+ <p align="left">
+  <a href="https://www.iter.es/areas/area-genomica/" title="Contact us at the Genomics Division of the Institute of Technology and Renewable Energy (ITER), Tenerife, Canary Islands, Spain">
+    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/ITER_logo.png" width="30%" /> 
+  </a>
+</p>
+
+By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+By AMB <a href="https://twitter.com/adrmunozb" title="Follow to @resocios on Twitter" >@adrmunozb <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
@@ -267,22 +273,6 @@ Please cite as: "Monkeypox repository of the Refence Laboratory for the Epidemio
 <hr>
 <!-- ------------------ SECTION 8 ------------------ -->
 
-<a name="Contact us"></a>
-## Contact us ##
-> Want to contact us? We highly encourage people to contribute to this Monkeypox repository (and acknowledged in the section above). Please, send me a Direct Message on Twitter (see below).
-
- <p align="left">
-  <a href="https://www.iter.es/areas/area-genomica/" title="Contact us at the Genomics Division of the Institute of Technology and Renewable Energy (ITER), Tenerife, Canary Islands, Spain">
-    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/ITER_logo.png" width="30%" /> 
-  </a>
-</p>
-
-By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
-
-
-<hr>
-<!-- ------------------ SECTION 9 ------------------ -->
-
 <a name="Update logs"></a>
 ## Update logs ##
 
@@ -293,6 +283,3 @@ By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twi
     <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
-
-
-
