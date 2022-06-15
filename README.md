@@ -261,7 +261,7 @@ Please cite as: "Monkeypox repository of the Refence Laboratory for the Epidemio
 <a name="Contributing. Contact us"></a>
 ## Contributing. Contact us ##
 
-> Want to share your relevant links? Place a Direct Message to @resocios or adrmunozb on Twitter (see below).
+> Want to share your relevant links? Place a Direct Message to @resocios or @adrmunozb on Twitter (see below).
 
  <p align="left">
   <a href="https://www.iter.es/areas/area-genomica/" title="Contact us at the Genomics Division of the Institute of Technology and Renewable Energy (ITER), Tenerife, Canary Islands, Spain">
