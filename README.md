@@ -73,9 +73,9 @@ Figure in preparation...
 
 The following diagram (Figure 2) represents a full pipeline used to derive the consensus FASTA sequence of Monkeypox virus using and combining short- and long-reads technologies (Illumina and Nanopore, respectively).
 
-In the upper part of the diagram you will find a typical pipeline to process short-reads, from the basecalling to the final consensus FASTA sequence, and downstream analysis such as the phylogenetic inference.
+In the upper part of the diagram, you will find a typical pipeline to process short-reads, from the basecalling to the final consensus FASTA sequence, and downstream analysis such as the phylogenetic inference.
 
-In the lower part of the diagram it is shown a typical pipeline to process long-reads. In addition, we show how to perform a hybrid *de novo* assembly combining short- and long-reads.
+In the lower part of the diagram, it is shown a typical pipeline to process long-reads. In addition, we show how to perform a hybrid *de novo* assembly combining short- and long-reads.
 
 We have obtained and deposited in NCBI GenBank two consensus sequences:
 <ul>
