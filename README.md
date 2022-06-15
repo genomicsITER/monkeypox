@@ -51,7 +51,7 @@ This is the result of an ongoing joint-effort of the following institutions and 
 
 A post with the draft of the first genome sequence of Monkeypox virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain will be published shortly in Virological. Keep watching! [Here.](https://github.com/genomicsITER/monkeypox)
 
-The first genome sequence of Monkeypox virus described by us in Virological is phylogenetically related to the multiple viral genomes deposited in NCBI GenBank corresponding to the actual 2022 worldwide outbreak, as showh in Fig. 1.
+The first genome sequence of Monkeypox virus described by us in Virological is phylogenetically related to the multiple viral genomes deposited in NCBI GenBank corresponding to the actual 2022 worldwide outbreak, as showh in Figure 1.
 
 Figure in preparation...
 
@@ -69,7 +69,7 @@ Figure in preparation...
 <a name="Bioinformatic pipelines"></a>
 ## Bioinformatic pipelines ##
 
-The following diagram (Fig. 2) represents a full pipeline used to derive the consensus FASTA sequence of Monkeypox virus using and combining short- and long-reads technologies (Illumina and Nanopore, respectively).
+The following diagram (Figure 2) represents a full pipeline used to derive the consensus FASTA sequence of Monkeypox virus using and combining short- and long-reads technologies (Illumina and Nanopore, respectively).
 
 In the upper part of the diagram you will find a typical pipeline to process short-reads, from the basecalling to the final consensus FASTA sequence, and downstream analysis such as the phylogenetic inference.
 
