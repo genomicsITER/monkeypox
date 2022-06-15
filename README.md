@@ -13,7 +13,7 @@
 </p>
 
 # Monkeypox
-A public repository of resources related to Monkeypox maintained by ITER.
+A public repository of Monkeypox related resources maintained by ITER.
 
 This is the result of an ongoing joint-effort of the following institutions and laboratories:
 <ul>
