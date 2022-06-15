@@ -51,7 +51,7 @@ This is the result of an ongoing joint-effort of the following institutions and 
 
 A post with the draft of the first genome sequence of Monkeypox virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain will be published shortly in Virological. Keep watching! [Here.](https://github.com/genomicsITER/monkeypox)
 
-The first genome sequence of Monkeypox virus described by us in Virological is phylogenetically related to the multiple viral genomes deposited in NCBI GenBank corresponding to the actual 2022 worldwide outbreak, as showh in Figure 1.
+The first genome sequence of Monkeypox virus described by us in Virological is phylogenetically related to the multiple viral genomes deposited in NCBI GenBank corresponding to the actual 2022 worldwide outbreak, as shown in Figure 1.
 
 Figure in preparation...
 
