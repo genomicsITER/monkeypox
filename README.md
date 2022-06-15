@@ -58,7 +58,13 @@ This is the result of a joint-effort of the following institutions and laborator
 <a name="ilink2"></a>
 ## Bioinformatic pipelines ##
 
-    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/MPXV_pipeline_v1.png" style="float: right; margin: 10px; padding: 2px;" />
+<p align="center">
+  <a href="https://www.iter.es" title="Instituto Tecnológico y de Energ&iacute;as Renovables (ITER) / Institute of Technology and Renewable Energy (ITER)">
+    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/MPXV_pipeline_v1.png" width="75%" /> 
+  </a>
+</p>
+
+    
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
