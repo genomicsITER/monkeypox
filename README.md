@@ -82,6 +82,41 @@ code here
 # End of script
 ```
 
+**List of bioinformatic software used in our pipelines**
+[BBMap tools v.38.96](https://sourceforge.net/projects/bbmap/)
+
+NCBI SRA Human Scrubber (https://github.com/ncbi/sra-human-scrubber): v.1.0.2021_05_05
+Kraken2 (https://ccb.jhu.edu/software/kraken2/): v.2.1.2
+
+R (https://www.r-project.org/): v.4.1.3
+Mosdepth (https://github.com/brentp/mosdepth): v.0.3.3
+Picard Tools (https://broadinstitute.github.io/picard/): v.2.18.7
+
+iVar (https://github.com/andersen-lab/ivar): v.1.3.1
+LoFreq (https://csb5.github.io/lofreq/): v.2.1.5
+SAMtools (https://github.com/samtools/samtools): v.1.6
+
+MAFFT (https://mafft.cbrc.jp/alignment/server/): v.7.505
+
+IQ-TREE (http://www.iqtree.org/): v.2.2.0.3
+
+Minimap2 (https://github.com/lh3/minimap2): v.2.24-r1122
+Bowtie2 (http://bowtie-bio.sourceforge.net/bowtie2/index.shtml): v.2.4.5
+BWA (https://github.com/lh3/bwa): v.0.7.17-r1188
+
+Nextstrain (https://github.com/nextstrain/monkeypox): -
+
+Unicycler (https://github.com/rrwick/Unicycler): v.0.5.0
+QUAST (http://quast.sourceforge.net/): v.5.0.2
+Bandage (https://rrwick.github.io/Bandage/): v.0.9.0
+Pavian (https://ccb.jhu.edu/software/pavian/): v.1.0
+
+SnpEff (https://pcingola.github.io/SnpEff/): v.5.1d
+
+Figtree (http://tree.bio.ed.ac.uk/software/figtree/)
+ggtree (https://bioconductor.org/packages/release/bioc/html/ggtree.html): 3.15
+
+
 <p align="right">
   <a href="#Monkeypox" title="Up">
     <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
