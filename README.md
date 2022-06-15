@@ -239,7 +239,7 @@ This study has been funded by Cabildo Insular de Tenerife (CGIEU0000219140 and "
 
 We acknowledge in [Table 1 (EXCEL file)](https://github.com/genomicsITER/monkeypox/blob/main/tables/table1.xlsx) the researchers and their institutions who released the MPXV sequences through NCBI GenBank that are being used in our studies. 
 
-We also gratefully acknowledge the authors, originating and submitting laboratories of the genetic sequences and metadata for sharing their work as shown in [Nextstrain](https://nextstrain.org/monkeypox) and:
+We also thank the authors, the laboratories that originated and submitted the genetic sequences and the metadata for sharing their work, as shown on Nextstrain, and:
 <ul>
   <li>Hadfield <i>et al</i>, Nextstrain: real-time tracking of pathogen evolution, Bioinformatics (2018)</li>
   <li>Sagulenko <i>et al</i>, TreeTime: Maximum-likelihood phylodynamic analysis, Virus Evolution (2017)</li>
