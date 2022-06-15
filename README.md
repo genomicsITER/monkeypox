@@ -143,6 +143,50 @@ code here
 
 [This is an external link](https://github.com/genomicsITER/monkeypox)
 
+Tumewu J, Wardiana M, Ervianty E, et al. An adult patient with suspected of monkeypox infection differential diagnosed to chickenpox. Infect Dis Rep. 2020;12(Suppl 1):8724. Published 2020 Jul 6. doi:10.4081/idr.2020.8724
+
+Luciani L, Inchauste L, Ferraris O, et al. A novel and sensitive real-time PCR system for universal detection of poxviruses [published correction appears in Sci Rep. 2022 Apr 8;12(1):5961]. Sci Rep. 2021;11(1):1798. Published 2021 Jan 19. doi:10.1038/s41598-021-81376-4
+
+Cervantes-Gracia K, Gramalla-Schmitz A, Weischedel J, Chahwan R. APOBECs orchestrate genomic and epigenomic editing across health and disease. Trends Genet. 2021;37(11):1028-1043. doi:10.1016/j.tig.2021.07.003
+
+Li Y, Olson VA, Laue T, Laker MT, Damon IK. Detection of monkeypox virus with real-time PCR assays. J Clin Virol. 2006;36(3):194-203. doi:10.1016/j.jcv.2006.03.012
+
+Erez N, Achdout H, Milrot E, et al. Diagnosis of Imported Monkeypox, Israel, 2018. Emerg Infect Dis. 2019;25(5):980-983. doi:10.3201/eid2505.190076
+
+Li D, Wilkins K, McCollum AM, et al. Evaluation of the GeneXpert for Human Monkeypox Diagnosis. Am J Trop Med Hyg. 2017;96(2):405-410. doi:10.4269/ajtmh.16-0567
+
+Zhao K, Wohlhueter RM, Li Y. Finishing monkeypox genomes from short reads: assembly analysis and a neural network method. BMC Genomics. 2016;17 Suppl 5(Suppl 5):497. Published 2016 Aug 31. doi:10.1186/s12864-016-2826-8
+
+Pecori R, Di Giorgio S, Paulo Lorenzo J, Nina Papavasiliou F. Functions and consequences of AID/APOBEC-mediated DNA and RNA deamination [published online ahead of print, 2022 Mar 7]. Nat Rev Genet. 2022;1-14. doi:10.1038/s41576-022-00459-8
+
+Faye O, Pratt CB, Faye M, et al. Genomic characterisation of human monkeypox virus in Nigeria [published correction appears in Lancet Infect Dis. 2018 Mar;18(3):244]. Lancet Infect Dis. 2018;18(3):246. doi:10.1016/S1473-3099(18)30043-4
+
+Berthet N, Descorps-Declère S, Besombes C, et al. Genomic history of human monkey pox infections in the Central African Republic between 2001 and 2018. Sci Rep. 2021;11(1):13085. Published 2021 Jun 22. doi:10.1038/s41598-021-92315-8
+
+Kugelman JR, Johnston SC, Mulembakani PM, et al. Genomic variability of monkeypox virus among humans, Democratic Republic of the Congo. Emerg Infect Dis. 2014;20(2):232-239. doi:10.3201/eid2002.130118
+
+Cohen J. Global outbreak puts spotlight on neglected virus. Science. 2022;376(6597):1032-1033. doi:10.1126/science.add2701
+
+Cohen-Gihon I, Israeli O, Shifman O, et al. Identification and Whole-Genome Sequencing of a Monkeypox Virus Strain Isolated in Israel. Microbiol Resour Announc. 2020;9(10):e01524-19. Published 2020 Mar 5. doi:10.1128/MRA.01524-19
+
+Yong SEF, Ng OT, Ho ZJM, et al. Imported Monkeypox, Singapore. Emerg Infect Dis. 2020;26(8):1826-1830. doi:10.3201/eid2608.191387
+
+Iizuka I, Saijo M, Shiota T, et al. Loop-mediated isothermal amplification-based diagnostic assay for monkeypox virus infections. J Med Virol. 2009;81(6):1102-1108. doi:10.1002/jmv.21494
+
+Kulesh DA, Loveless BM, Norwood D, et al. Monkeypox virus detection in rodents using real-time 3'-minor groove binder TaqMan assays on the Roche LightCycler. Lab Invest. 2004;84(9):1200-1208. doi:10.1038/labinvest.3700143
+
+Li Y, Zhao H, Wilkins K, Hughes C, Damon IK. Real-time PCR assays for the specific detection of monkeypox virus West African and Congo Basin strain DNA. J Virol Methods. 2010;169(1):223-227. doi:10.1016/j.jviromet.2010.07.012
+
+Maksyutov RA, Gavrilova EV, Shchelkunov SN. Species-specific differentiation of variola, monkeypox, and varicella-zoster viruses by multiplex real-time PCR assay. J Virol Methods. 2016;236:215-220. doi:10.1016/j.jviromet.2016.07.024
+
+Shchelkunov SN, Shcherbakov DN, Maksyutov RA, Gavrilova EV. Species-specific identification of variola, monkeypox, cowpox, and vaccinia viruses by multiplex real-time PCR assay. J Virol Methods. 2011;175(2):163-169. doi:10.1016/j.jviromet.2011.05.002
+
+Kraemer MUG, Tegally H, Pigott DM, et al. Tracking the 2022 monkeypox outbreak with epidemiological data in real-time [published online ahead of print, 2022 Jun 8]. Lancet Infect Dis. 2022;S1473-3099(22)00359-0. doi:10.1016/S1473-3099(22)00359-0
+
+Mucker EM, Hartmann C, Hering D, et al. Validation of a pan-orthopox real-time PCR assay for the detection and quantification of viral genomes from nonhuman primate blood. Virol J. 2017;14(1):210. Published 2017 Nov 3. doi:10.1186/s12985-017-0880-8
+
+
+
 <p align="right">
   <a href="#Monkeypox" title="Up">
     <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
