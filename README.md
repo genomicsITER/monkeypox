@@ -51,6 +51,12 @@ This is the result of an ongoing joint-effort of the following institutions and 
 
 A post with the draft of the first genome sequence of Monkeypox virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain will be published shortly in Virological. Keep watching! [Here.](https://github.com/genomicsITER/monkeypox)
 
+The first genome sequence of Monkeypox virus described by us in Virological is phylogenetically related to the multiple viral genomes deposited in NCBI GenBank corresponding to the actual 2022 worldwide outbreak, as showh in Fig. 1.
+
+Figure in preparation...
+
+**Figure 1**. A phylogenetic tree depicting the draft MPXV sequence isolated the 31st of May 2022 from a patient from the Canary Islands along with NCBI GenBank publicly available sequences computed by a Nextstrain monkeypox local instance.
+
 <p align="right">
   <a href="#Monkeypox" title="Up">
     <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -63,7 +69,7 @@ A post with the draft of the first genome sequence of Monkeypox virus associated
 <a name="Bioinformatic pipelines"></a>
 ## Bioinformatic pipelines ##
 
-The following diagram represents a full pipeline used to derive the consensus FASTA sequence of Monkeypox virus using and combining short- and long-reads technologies (Illumina and Nanopore, respectively).
+The following diagram (Fig. 2) represents a full pipeline used to derive the consensus FASTA sequence of Monkeypox virus using and combining short- and long-reads technologies (Illumina and Nanopore, respectively).
 
 In the upper part of the diagram you will find a typical pipeline to process short-reads, from the basecalling to the final consensus FASTA sequence, and downstream analysis such as the phylogenetic inference.
 
@@ -80,6 +86,8 @@ We have obtained and deposited in NCBI GenBank two consensus sequences:
     <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/MPXV_pipeline_v1.png" width="auto" /> 
   </a>
 </p>
+
+**Figure 2**. Full bioinformatic pipeline to obtain the Monkeypox sequences and to infer phylogenetic relationships with other Monkeypox viral genomes available through out public repositories.
 
 <hr>
 
