@@ -255,7 +255,7 @@ lofreq call -f ${reference} -o ${outfile} ${infile}
 #In preparation...
 ```
 
-  <p align="right">
+<p align="right">
   <a href="#Monkeypox" title="Up">
     <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
