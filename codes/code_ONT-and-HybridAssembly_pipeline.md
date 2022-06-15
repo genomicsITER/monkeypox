@@ -129,3 +129,9 @@ conda activate seqtk
 cns_fasta="assembly.onlyMPXV.cns.fastq"
 seqtk seq -aQ64 -U -n N ${cns_fastq} > ${cns_fasta}
 ```
+
+<p align="right">
+  <a href="#Monkeypox" title="Up">
+    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
