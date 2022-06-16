@@ -320,7 +320,7 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 
 > June 13, 2022. Created the public version of this repository. Enjoy the reading! ;=)
 > June 16, 2022. The MultiSample FASTA file now holds 137 public MPXV sequences.
-> 
+
 <p align="right">
   <a href="#Monkeypox" title="Up">
     <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
