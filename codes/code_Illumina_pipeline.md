@@ -47,8 +47,11 @@ This is the result of an ongoing joint-effort of the following institutions and 
 <li><a href="#5.2">5.2. With LoFreq</a></li>
 </ul>
 <li><a href="#6">6. Consensus FASTA Generation</a></li>
-<li><a href="#7">7. Multisample Alignment with MAFFT</a></li>
-<li><a href="#8">8. Phylogenetic Analysis</a></li>
+<li><a href="#7">7. Multisample Alignment and Phylogenetic Analysis</a></li>
+  <ul>
+<li><a href="#7.1">7.1. with MAFFT and IQ-TREE</a></li>
+<li><a href="#7.2">7.2. With Nextstraing-monkeypox</a></li>
+</ul>
 </ul>
 
 <hr>
@@ -244,17 +247,23 @@ lofreq call -f ${reference} -o ${outfile} ${infile}
 ```
 
 <a name="7"></a> 
-#### 7. Multisample Alignment with MAFFT:
+#### 7. Multisample Alignment and Phylogenetic Analysis:
 ```Bash
 #In preparation...
 ```
 
-<a name="8"></a> 
-#### 8. Phylogenetic Analysis:
+<a name="7.1"></a>  
+##### 7.1. With MAFFT and IQ-TREE:
 ```Bash
 #In preparation...
-```
+  ```
 
+<a name="7.2"></a>  
+##### 7.2. With Nextstraing-monkeypox:
+```Bash
+#In preparation...
+  ```
+  
 <p align="right">
   <a href="#Monkeypox" title="Up">
     <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
