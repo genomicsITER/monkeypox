@@ -319,6 +319,7 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 ## Update logs ##
 
 > June 13, 2022. Created the public version of this repository. Enjoy the reading! ;=)
+> June 16, 2022. MultiSample FASTA file with a total of 137 MPXV sequences.
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
