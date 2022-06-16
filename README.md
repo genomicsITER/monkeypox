@@ -135,6 +135,16 @@ Two consensus MPXV sequences have been obtained and deposited in NCBI GenBank fo
 <li>Visualization of phylogenetic trees: <a href="https://bioconductor.org/packages/release/bioc/html/ggtree.html/">ggtree 3.15</a></li>
 </ul>
 
+<hr>
+
+<a name="Useful Files"></a>
+**Useful files for the pipelines**
+
+<ul>
+<li>FASTA file with multiple sequences of MPXV from NCBI GenBank to use used in the Multiple Sample Aligment step with MAFFT or Nextstrain-monkeypox, available <a href="">here</a> (last update: June 16, 2022)</a></li>
+</ul>
+
+ 
 <p align="right">
   <a href="#Monkeypox" title="Up">
     <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
