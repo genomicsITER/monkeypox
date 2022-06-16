@@ -260,7 +260,7 @@ We would like to acknowledge the contributions of several researchers and labora
 <a name="License and Attribution"></a>
 ## License and Attribution ##
 
-This repository and data exports are released under the CC BY 4.0 license. Please acknowledge the authors, the originating and submitting laboratories for the genetic sequences and metadata, and the open source software used in this work.
+This repository and data exports are released under the CC BY 4.0 license. Please acknowledge the authors, the originating and submitting laboratories for the genetic sequences and metadata, and the open source software used in this work (third-party copyrights and licenses may apply).
 
 Please cite as: _"Monkeypox repository of the Reference Laboratory for Epidemiological Surveillance of Pathogens in the Canary Islands (accessed on YYYY-MM-DD)"_.
 
