@@ -50,9 +50,7 @@ This is the result of a continuous collaborative effort of the following Institu
 <a name="Virological posts"></a>
 ## Virological posts ##
 
-A technical post with the draft of the first genome sequence of MPXV virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain will be published shortly in Virological. Keep watching! [Here.](https://github.com/genomicsITER/monkeypox)
-
-A publication with the draft of the first genome sequence of the MPXV virus associated with the May 2022 multinational outbreak in the Canary Islands, Spain, will be published soon in Virological. Keep watching!
+A technical post with the draft of the first genome sequence of MPXV virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain will be shared shortly in Virological. Keep watching! [Here.](https://github.com/genomicsITER/monkeypox)
 
 The first genome sequence of MPXV virus described by us in Virological is phylogenetically related to the multiple viral genomes deposited in NCBI GenBank that correspond to the actual 2022 worldwide outbreak, as shown in Figure 1.
 
@@ -74,9 +72,9 @@ Figure in preparation...
 
 The following diagram (Figure 2) represents a full pipeline used to derive the consensus FASTA sequence of MPXV virus using and combining short- and long-reads technologies (Illumina and Nanopore, respectively).
 
-In the upper part of the diagram, you will find a typical pipeline to process short-reads, from the basecalling to the final consensus FASTA sequence, and downstream analysis such as the phylogenetic inference.
+In the upper part of the diagram, there is a typical pipeline to process short-reads, from the basecalling to the final consensus FASTA sequence, and downstream analysis such as the phylogenetic inference.
 
-In the lower part of the diagram, it is shown a typical pipeline to process long-reads. In addition, we show how to perform a hybrid *de novo* assembly combining short- and long-reads.
+In the lower part of the diagram, it is shown a typical pipeline to process long-reads. In addition, it shows how to perform a hybrid *de novo* assembly combining short- and long-reads.
 
 Two consensus MPXV sequences have been obtained and deposited in NCBI GenBank following the described pipeline:
 <ul>
@@ -90,7 +88,7 @@ Two consensus MPXV sequences have been obtained and deposited in NCBI GenBank fo
   </a>
 </p>
 
-**Figure 2**. Full bioinformatic pipeline to obtain the MPXV sequences and to infer phylogenetic relationships with other MPXV viral genomes available through out public repositories.
+**Figure 2**. Full bioinformatic pipeline to obtain the MPXV sequences and to infer phylogenetic relationships with other MPXV viral genomes available obtained from public repositories.
 
 <hr>
 
