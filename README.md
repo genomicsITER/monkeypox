@@ -63,7 +63,7 @@ The first genome sequence of MPXV virus described by us in Virological is phylog
 **Figure 1**. A phylogenetic tree depicting the draft MPXV sequence isolated on May 31, 2022 from a patient from the Canary Islands along with NCBI GenBank publicly available sequences computed by a Nextstrain-monkeypox local instance.
 
 <p align="right">
-  <a href="#Monkeypox" title="Up">
+  <a href="https://virological.org/t/a-draft-of-the-first-genome-sequence-of-monkeypox-virus-associated-with-the-multi-country-outbreak-in-may-2022-from-the-canary-islands-spain/864" title="See our post in Virological.org">
     <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
