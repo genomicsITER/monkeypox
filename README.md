@@ -50,7 +50,7 @@ This is the result of a continuous collaborative effort of the following Institu
 <a name="Virological posts"></a>
 ## Virological posts ##
 
-A technical post with the draft of the first genome sequence of MPXV virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain will be shared shortly in Virological. Keep watching! [Here.](https://github.com/genomicsITER/monkeypox)
+A technical post with the draft of the first genome sequence of MPXV virus associated with the multi-country outbreak in May 2022 from the Canary Islands, Spain has been shared in Virological. Keep reading! [Here.](https://virological.org/t/a-draft-of-the-first-genome-sequence-of-monkeypox-virus-associated-with-the-multi-country-outbreak-in-may-2022-from-the-canary-islands-spain/864)
 
 The first genome sequence of MPXV virus described by us in Virological is phylogenetically related to the multiple viral genomes deposited in NCBI GenBank that correspond to the actual 2022 worldwide outbreak, as shown in Figure 1.
 
