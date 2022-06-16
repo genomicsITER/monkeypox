@@ -159,13 +159,16 @@ Two consensus MPXV sequences have been obtained and deposited in NCBI GenBank fo
 <a name="Sequences"></a>
 ## Sequences ##
 
-> Consensus FASTA file obtained from Illumina short-reads mapping to [MT903344.1](https://www.ncbi.nlm.nih.gov/nuccore/MT903344.1). See [Virological post for more details](https://virological.org/)
-
-NCBI GenBank Accession will be available in 48 h: sequence [ HUNSC_ITER_MPXV01.fasta](https://github.com/genomicsITER/monkeypox/blob/main/sequences/HUNSC_ITER_MPXV01.fasta)
-
 > Consensus FASTA file obtained from a hybrid *de novo* Illumina-Nanopore based assembly and [MT903344.1](https://www.ncbi.nlm.nih.gov/nuccore/MT903344.1). See [Virological post for more details](https://virological.org/)
 
-NCBI GenBank Accession will be available in 48 h: sequence [ HUNSC_ITER_MPXV01_ILMN-ONT_hybrid_assembly.fasta](https://github.com/genomicsITER/monkeypox/blob/main/sequences/HUNSC_ITER_MPXV01_ILMN-ONT_hybrid_assembly.fasta)
+NCBI GenBank Accession: ON782054. Sequence available as [ MPXV/Spain/HUNSC_ITER_0001a/2022](https://www.ncbi.nlm.nih.gov/nuccore/ON782054)
+
+
+> Consensus FASTA file obtained from Illumina short-reads mapping to [MT903344.1](https://www.ncbi.nlm.nih.gov/nuccore/MT903344.1). See [Virological post for more details](https://virological.org/)
+
+NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_0001b/2022](https://www.ncbi.nlm.nih.gov/nuccore/ON782055)
+
+
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
