@@ -33,7 +33,8 @@ This is the result of a continuous collaborative effort of the following Institu
     <ul>
     <li><a href="#Code-Illumina">Code for Illumina short-reads processing</a></li>
       <li><a href="#Code-ONT">Code for Nanopore long-reads processing and hybrid <i>de novo</i> assemby</a></li>
-    <li><a href="#List-of-software">List of bioinformatic software used in our pipelines</a></li>
+      <li><a href="#List-of-software">List of bioinformatic software used in our pipelines</a></li>
+      <li><a href="#Useful-Files">Useful files for the pipelines</a></li>
   </ul>
   <li><a href="#Sequences">Sequences</a></li>
   <li><a href="#References">References</a></li>
@@ -137,7 +138,7 @@ Two consensus MPXV sequences have been obtained and deposited in NCBI GenBank fo
 
 <hr>
 
-<a name="Useful Files"></a>
+<a name="Useful-Files"></a>
 **Useful files for the pipelines**
 
 <ul>
