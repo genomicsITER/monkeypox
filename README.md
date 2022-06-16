@@ -54,7 +54,11 @@ A technical post with the draft of the first genome sequence of MPXV virus assoc
 
 The first genome sequence of MPXV virus described by us in Virological is phylogenetically related to the multiple viral genomes deposited in NCBI GenBank that correspond to the actual 2022 worldwide outbreak, as shown in Figure 1.
 
-Figure in preparation...
+<p align="center">
+  <a href="#Monkeypox" title="Up">
+    <img src="https://github.com/genomicsITER/monkeypox/blob/main/figures/Nextstrain-monkeypox_HUNSC_ITER_Figure1.png" width="auto" />
+  </a>
+</p>
 
 **Figure 1**. A phylogenetic tree depicting the draft MPXV sequence isolated on May 31, 2022 from a patient from the Canary Islands along with NCBI GenBank publicly available sequences computed by a Nextstrain-monkeypox local instance.
 
