@@ -366,7 +366,9 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 
 > June 16, 2022. The MultiSample FASTA file now holds 137 public MPXV sequences.
 
-> June 21, 2022. Working on a How-to-download seqs and metadata from GenBank and other useful external repositorios for MPXV.
+> June 21, 2022. Added a section with other useful external repositories for MPXV.
+
+> June 22, 2022. Working on a How-to-download seqs and metadata from GenBank.
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
