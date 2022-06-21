@@ -187,6 +187,8 @@ NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_
 <a name="Other-repos"></a>
 ## Other useful repositories with resources to study MPXV ##
 
+> Kudos to all research teams behind the scenes in all these repositories:
+> 
 <ul>
   <li><a href="https://virological.org/c/monkeypox">Virological.org posts on MPXV</a></li>
   <li><a href="https://github.com/CADDE-CENTRE/Monkeypox">CADDE-CENTRE GitHub repository for MPXV</a></li>  
