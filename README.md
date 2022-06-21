@@ -37,6 +37,7 @@ This is the result of a continuous collaborative effort of the following Institu
       <li><a href="#Useful-Files">Useful files for the pipelines</a></li>
   </ul>
   <li><a href="#Sequences">Sequences</a></li>
+  <li><a href="#How-to-GenBank">How to download sequences and metadata from GenBank</a></li>  
   <li><a href="#Other-repos">Other useful repositories with resources to study MPXV</a></li>
   <li><a href="#References">References</a></li>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
@@ -195,8 +196,24 @@ Sorry... we are working in this new section.
 </p>
 
 
+
 <hr>
 <!-- ------------------ SECTION 5 ------------------ -->
+
+<a name="How-to-GenBank"></a>
+## How to download sequences and metadata from GenBank ##
+
+Sorry... we are working in this new section.
+
+<p align="right">
+  <a href="#Monkeypox" title="Up">
+    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+
+<hr>
+<!-- ------------------ SECTION 6 ------------------ -->
 
 <a name="References"></a>
 ## References ##
@@ -263,7 +280,7 @@ medRxiv 2022.06.03.22275815; doi: https://doi.org/10.1101/2022.06.03.22275815
 
 
 <hr>
-<!-- ------------------ SECTION 6 ------------------ -->
+<!-- ------------------ SECTION 7 ------------------ -->
 
 <a name="Acknowledgements"></a>
 ## Acknowledgements ##
@@ -288,7 +305,7 @@ We would like to acknowledge the contributions of several researchers and labora
 
 
 <hr>
-<!-- ------------------ SECTION 7 ------------------ -->
+<!-- ------------------ SECTION 8 ------------------ -->
 
 <a name="License and Attribution"></a>
 ## License and Attribution ##
@@ -305,7 +322,7 @@ Please cite as: _"Monkeypox repository of the Reference Laboratory for Epidemiol
 
 
 <hr>
-<!-- ------------------ SECTION 8 ------------------ -->
+<!-- ------------------ SECTION 9 ------------------ -->
 
 <a name="Participating"></a>
 ## Participating ##
@@ -330,7 +347,7 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 
 
 <hr>
-<!-- ------------------ SECTION 9 ------------------ -->
+<!-- ------------------ SECTION 10 ------------------ -->
 
 <a name="Update logs"></a>
 ## Update logs ##
