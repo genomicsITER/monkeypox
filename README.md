@@ -37,6 +37,7 @@ This is the result of a continuous collaborative effort of the following Institu
       <li><a href="#Useful-Files">Useful files for the pipelines</a></li>
   </ul>
   <li><a href="#Sequences">Sequences</a></li>
+  <li><a href="#Other-repos">Other useful repositories with resources to study MPXV</a></li>
   <li><a href="#References">References</a></li>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
   <li><a href="#License and Attribution">License and Attribution</a></li>
@@ -178,8 +179,24 @@ NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_
   </a>
 </p>
 
+
 <hr>
 <!-- ------------------ SECTION 4 ------------------ -->
+
+<a name="Other-repos"></a>
+## Other useful repositories with resources to study MPXV ##
+
+Sorry... we are working in this new section.
+
+<p align="right">
+  <a href="#Monkeypox" title="Up">
+    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+
+<hr>
+<!-- ------------------ SECTION 5 ------------------ -->
 
 <a name="References"></a>
 ## References ##
@@ -246,7 +263,7 @@ medRxiv 2022.06.03.22275815; doi: https://doi.org/10.1101/2022.06.03.22275815
 
 
 <hr>
-<!-- ------------------ SECTION 5 ------------------ -->
+<!-- ------------------ SECTION 6 ------------------ -->
 
 <a name="Acknowledgements"></a>
 ## Acknowledgements ##
@@ -271,7 +288,7 @@ We would like to acknowledge the contributions of several researchers and labora
 
 
 <hr>
-<!-- ------------------ SECTION 6 ------------------ -->
+<!-- ------------------ SECTION 7 ------------------ -->
 
 <a name="License and Attribution"></a>
 ## License and Attribution ##
@@ -288,7 +305,7 @@ Please cite as: _"Monkeypox repository of the Reference Laboratory for Epidemiol
 
 
 <hr>
-<!-- ------------------ SECTION 7 ------------------ -->
+<!-- ------------------ SECTION 8 ------------------ -->
 
 <a name="Participating"></a>
 ## Participating ##
@@ -313,7 +330,7 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 
 
 <hr>
-<!-- ------------------ SECTION 8 ------------------ -->
+<!-- ------------------ SECTION 9 ------------------ -->
 
 <a name="Update logs"></a>
 ## Update logs ##
