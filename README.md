@@ -197,6 +197,7 @@ NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_
   <li><a href="https://github.com/globaldothealth/monkeypox">Global.health, geospatial data visualisations to explore MPXV GitHub repository</a> and <a href="https://map.monkeypox.global.health/country">visualization</a></li>
   <li><a href="https://ourworldindata.org/monkeypox">Our World in Data for MPXV</a></li>
   <li><a href="https://github.com/nextstrain/monkeypox">Nextstraing build for MPXV in GitHub</a> and <a href="https://nextstrain.org/monkeypox/hmpxv1">visualization</a></li>
+  <li><a href="https://www.finddx.org/mpx-test-directory/">FIND offers a searchable directory of monkeypox tests</a></li>
 </ul>
 
 <p align="right">
