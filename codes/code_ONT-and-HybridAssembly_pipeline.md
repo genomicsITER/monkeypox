@@ -125,7 +125,7 @@ assembly="assembly.onlyMPXV.fasta"
 sam="aligned_contigs.sam"
 
 # Map
-minimap2 -ax asm5 -o ${output} ${reference} ${assembly}
+minimap2 -ax asm5 -o ${sam} ${reference} ${assembly}
 
 # Sort BAM
 bam="aligned_contigs.bam"
@@ -133,14 +133,14 @@ samtools view -bS ${sam} | samtools sort - -o ${bam}
 
 # In case you install BCFtools through conda:
 conda activate bcftools
-fastq_cns="onlyMPXV.cns.fastq"
+cns_fastq="onlyMPXV.cns.fastq"
 
 # Create a pileup with SAMtools, pipe to BCFtools, and convert to FASTA
 samtools mpileup -uf ${reference} ${bam} | bcftools call -c | vcfutils.pl vcf2fq > ${cns_fastq}
 
 # In case you install Seqtk through conda:
 conda activate seqtk
-cns_fasta="assembly.onlyMPXV.cns.fastq"
+cns_fasta="assembly.onlyMPXV.cns.fasta"
 seqtk seq -aQ64 -U -n N ${cns_fastq} > ${cns_fasta}
 ```
 
