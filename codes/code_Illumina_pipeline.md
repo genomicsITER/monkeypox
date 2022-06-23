@@ -41,16 +41,17 @@ This is the result of an ongoing joint-effort of the following institutions and 
 <li><a href="#3.3">3.3. With Bowtie2</a></li>
 </ul>
 <li><a href="#4">4. Sort and index aligned reads</a></li>
-<li><a href="#5">5. Variant Calling</a></li>
+<li><a href="#5">5. Mark duplicate reads</a></li>
+<li><a href="#5">6. Variant Calling</a></li>
 <ul>
-<li><a href="#5.1">5.1. With iVar</a></li>
-<li><a href="#5.2">5.2. With LoFreq</a></li>
+<li><a href="#6.1">6.1. With iVar</a></li>
+<li><a href="#6.2">6.2. With LoFreq</a></li>
 </ul>
-<li><a href="#6">6. Consensus FASTA Generation</a></li>
-<li><a href="#7">7. Multisample Alignment and Phylogenetic Analysis</a></li>
-  <ul>
-<li><a href="#7.1">7.1. with MAFFT and IQ-TREE</a></li>
-<li><a href="#7.2">7.2. With Nextstraing-monkeypox</a></li>
+<li><a href="#7">7. Consensus FASTA Generation</a></li>
+<li><a href="#8">8. Multisample Alignment and Phylogenetic Analysis</a></li>
+<ul>
+<li><a href="#8.1">8.1. with MAFFT and IQ-TREE</a></li>
+<li><a href="#8.2">8.2. With nextstrain/monkeypox</a></li>
 </ul>
 </ul>
 
@@ -214,55 +215,120 @@ samtools view -F 0x04 -b ${infile} > ${outfile}
 # Index BAM file:
 samtools index ${outfile}
 ```
-
+  
 <a name="5"></a> 
-#### 5. Variant Calling:
-<a name="5.1"></a> 
-##### 5.1 With iVar:
+#### 5. Mark duplicate reads:
+```Bash
+# In case you install Picard through conda:
+conda activate picard
+ 
+# Tag duplicate reads in BAM file:
+infile="aligned.sorted.mapped.bam"
+outfile="aligned.sorted.mapped.markduplicates.bam"
+outmetrics="aligned.sorted.mapped.markduplicates.metrics.txt"
+picard MarkDuplicates \
+ -Xmx8g \
+ -I ${infile} \
+ -O ${outfile} \
+ -M ${outmetrics}
+
+# Index BAM file:
+samtools index ${outfile}
+```
+
+<a name="6"></a> 
+#### 6. Variant Calling:
+<a name="6.1"></a> 
+##### 6.1 With iVar:
 ```Bash
 # In case you install iVar through conda:
 conda activate ivar
 
 # Make a pileup and pipe to iVar to call variants:
-infile="aligned.sorted.mapped.bam"
+infile="aligned.sorted.mapped.markduplicates.bam"
 prefix="out_variants"
 samtools mpileup --reference ${reference} ${infile} | ivar variants -r ${reference} -p ${prefix}
 ```
-<a name="5.2"></a> 
-##### 5.2 With LoFreq:
+<a name="6.2"></a> 
+##### 6.2 With LoFreq:
 ```Bash
 # In case you install LoFreq through conda:
 conda activate lofreq
 
 # Call variants
-infile="aligned.sorted.mapped.bam"
+infile="aligned.sorted.mapped.markduplicates.bam"
 outfile="variants.vcf"
 lofreq call -f ${reference} -o ${outfile} ${infile}
 ```
 
-<a name="6"></a> 
-#### 6. Consensus FASTA Generation:
-```Bash
-#In preparation...
-```
-
 <a name="7"></a> 
-#### 7. Multisample Alignment and Phylogenetic Analysis:
+#### 7. Consensus FASTA Generation:
 ```Bash
-#In preparation...
+# In case you install iVar through conda:
+conda activate ivar
+
+# Generate consensus FASTA:
+# Optionally, you can set different parameters to define minimum thresholds for the consensus (see ivar consensus help).
+infile="aligned.sorted.mapped.markduplicates.bam"
+outfile="consensus_sequence.fa"
+samtools mpileup -A -Q 0 ${infile} | ivar consensus -p ${outfile} -q 10 -t 0 -m 1
 ```
 
-<a name="7.1"></a>  
-##### 7.1. With MAFFT and IQ-TREE:
+<a name="8"></a> 
+#### 8. Multisample Alignment and Phylogenetic Analysis:
 ```Bash
-#In preparation...
-  ```
+# Create a multisample FASTA with more sequences
+sequences_dir=/path/to/more/sequences
+infile="consensus_sequence.fa"
+outfile="multifasta.fa"
+cat ${sequences_dir}/*.fa ${infile} > ${outfile}
+```
 
-<a name="7.2"></a>  
-##### 7.2. With Nextstraing-monkeypox:
+<a name="8.1"></a>  
+##### 8.1. With MAFFT and IQ-TREE:
 ```Bash
-#In preparation...
-  ```
+# Align using MAFFT:
+# You should replace the --thread parameter with a proper value that suits your execution environment.
+infile="multifasta.fa"
+outfile="multifasta.mafft-aligned.fa"
+logfile="multifasta.mafft-aligned.log"
+mafft --reorder --anysymbol --nomemsave --adjustdirection --thread 48 ${infile} 1> ${outfile} 2> ${logfile}
+
+# Generate phylogenetic tree using IQ-TREE with best-fit model:
+# Alternatively, you could choose a model like JC by using the -m parameter.
+iqtree -s ${outfile} -nt AUTO
+
+# You will end up with a phylogenetic tree in Newick format (*.treefile extension) which can be represented using your favorite tool such as [NCBI Tree Viewer](https://www.ncbi.nlm.nih.gov/projects/treeview/).
+```
+
+<a name="8.2"></a>  
+##### 8.2. With nextstrain/monkeypox:
+```Bash
+# In case you install Nextstrain through conda:
+conda activate nexstrain
+
+# Align using Augur
+# You should replace the --nthread parameter with a proper value that suits your execution environment.
+infile="multifasta.fa"
+outfile="multifasta.agur-aligned.fa"
+augur \
+ align \
+ --sequences ${infile} \
+ --reference-sequence ${reference} \
+ --output ${outfile} \
+ --fill-gaps \
+ --nthreads 48
+
+# Create a sequence index to speed-up calculations
+infile="multifasta.agur-aligned.fa"
+outfile="multifasta.agur-aligned.index.tsv"
+augur index \
+  --sequences ${infile} \
+  --output ${outfile}
+
+In progress...
+
+```
   
 <p align="right">
   <a href="#Monkeypox" title="Up">
