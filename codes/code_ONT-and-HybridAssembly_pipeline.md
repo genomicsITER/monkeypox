@@ -42,8 +42,8 @@ This is the result of an ongoing joint-effort of the following institutions and 
 #### 1. Preprocessing of Nanopore reads:
 ```Bash
 # Filter short and low quality reads using FASTP:
-infile=/path/to/ont/all_reads.fastq
-outfile=all_reads.filtered.fastq
+infile="all_reads.fastq"
+outfile="all_reads.filtered.fastq"
 fastp -w 48 -i ${infile} -l 500 -q 10 -o ${outfile}
 ```
 
