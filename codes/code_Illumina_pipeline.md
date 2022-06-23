@@ -107,7 +107,8 @@ ${sraScrubber} -d ${db} -i ${infile} -o ${outfile}
 # In case you install Kraken 2 through conda:
 conda activate kraken2
   
-# Path to Kraken 2 Human database (check this Kraken 2 manual section to learn how to download and build your own database.
+# Path to Kraken 2 Human database (check this Kraken 2 manual section to learn how to download 
+# and build your own database.
 # See: https://github.com/DerrickWood/kraken2/blob/master/docs/MANUAL.markdown#custom-databases
 database="/path/to/kraken2-human-db"
 
@@ -125,7 +126,11 @@ classified="classified#.fastq"
 report="report.txt"
   
 # Run Kraken 2 command:
-kraken2 --db ${database} --unclassified-out ${unclassified} --classified-out ${classified} --report ${report} --paired ${infile}
+kraken2 --db ${database} \
+  --unclassified-out ${unclassified} \
+  --classified-out ${classified} \
+  --report ${report} \
+  --paired ${infile}
 ```
 
 <a name="3"></a>
@@ -268,7 +273,8 @@ lofreq call -f ${reference} -o ${outfile} ${infile}
 conda activate ivar
 
 # Generate consensus FASTA:
-# Optionally, you can set different parameters to define minimum thresholds for the consensus (see ivar consensus help).
+# Optionally, you can set different parameters to define minimum thresholds for the consensus 
+# (see ivar consensus help).
 infile="aligned.sorted.mapped.markduplicates.bam"
 outfile="consensus_sequence.fa"
 samtools mpileup -A -Q 0 ${infile} | ivar consensus -p ${outfile} -q 10 -t 0 -m 1
@@ -298,7 +304,8 @@ mafft --reorder --anysymbol --nomemsave --adjustdirection --thread 48 ${infile} 
 # Alternatively, you could choose a model like JC by using the -m parameter.
 iqtree -s ${outfile} -nt AUTO
 
-# You will end up with a phylogenetic tree in Newick format (*.treefile extension) which can be represented using your favorite tool such as NCBI Tree Viewer.
+# You will end up with a phylogenetic tree in Newick format (*.treefile extension) which can be represented 
+# using your favorite tool such as NCBI Tree Viewer.
 ```
 
 <a name="8.2"></a>  
