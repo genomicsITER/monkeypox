@@ -1,0 +1,139 @@
+strain	date	region	outbreak_associated	genbank_accession_rev	host	country	clade_membership
+Nigeria_2017_MG693724.1	2017-12-31	Africa	no	MG693724.1	Homo sapiens	Nigeria	hMPXV-1 A
+Nigeria_2018_MT903338.1	2018-01-01	Africa	no	MT903338.1	Homo sapiens	Nigeria	hMPXV-1 A
+Nigeria_2018_NC_063383.1	2018-08-01	Africa	no	NC_063383.1	Homo sapiens	Nigeria	hMPXV-1 A
+Nigeria_2018_MT903340.1	2018-07-31	Africa	no	MT903340.1	Homo sapiens	Nigeria	hMPXV-1 A
+Nigeria_2017_MK783030.1	2017-11-30	Africa	no	MK783030.1	Homo sapiens	Nigeria	hMPXV-1 A
+Nigeria_2018_MT903337.1	2018-01-22	Africa	no	MT903337.1	Homo sapiens	Nigeria	hMPXV-1 A
+Nigeria_2018_MT903339.1	2018-01-01	Africa	no	MT903339.1	Homo sapiens	Nigeria	hMPXV-1 A
+Nigeria_2017_MK783033.1	2017-10-09	Africa	no	MK783033.1	Homo sapiens	Nigeria	hMPXV-1 A
+Nigeria_2017_MG693723.1	2017-12-31	Africa	no	MG693723.1	Homo sapiens	Nigeria	hMPXV-1 A
+Nigeria_2017_MK783032.1	2017-11-30	Africa	no	MK783032.1	Homo sapiens	Nigeria	hMPXV-1 A
+USA_2022_ON675438.1	2022-05-01	North America	no	ON675438.1	Homo sapiens	USA	A.2
+USA_2021_ON676707.1	2021-07-24	North America	no	ON676707.1	Homo sapiens	USA	A.2
+USA_2022_ON674051.1	2022-05-01	North America	no	ON674051.1	Homo sapiens	USA	A.2
+Nigeria_2017_MK783029.1	2017-12-06	Africa	no	MK783029.1	Homo sapiens	Nigeria	hMPXV-1 A
+Nigeria_2017_MK783027.1	2017-11-09	Africa	no	MK783027.1	Homo sapiens	Nigeria	hMPXV-1 A
+Nigeria_2017_MK783028.1	2017-11-09	Africa	no	MK783028.1	Homo sapiens	Nigeria	hMPXV-1 A
+Nigeria_2017_MK783031.1	2017-11-09	Africa	no	MK783031.1	Homo sapiens	Nigeria	hMPXV-1 A
+Israel_2018_MN648051.1	2018-10-04	Asia	no	MN648051.1	Homo sapiens	Israel	A.1
+Singapore_2019_MT250197.1	2019-01-01	Asia	no	MT250197.1	Homo sapiens	Singapore	A.1
+Nigeria_2018_MT903341.1	2018-08-14	Africa	no	MT903341.1	Homo sapiens	Nigeria	A.1
+USA_2021_ON676708.1	2021-11-01	North America	no	ON676708.1	Homo sapiens	USA	A.1.1
+Portugal_2022_ON585036.1	2022-05-15	Europe	yes	ON585036.1	Homo sapiens	Portugal	B.1
+Brazil_2022_ON751962.1	2022-06-07	South America		ON751962.1	Homo sapiens	Brazil	B.1
+United Kingdom_2022_ON645312.1	2022-05-11	Europe	yes	ON645312.1	Homo sapiens	United Kingdom	B.1
+Germany_2022_ON694335.1	2022-05-23	Europe	yes	ON694335.1	Homo sapiens	Germany	B.1
+Germany_2022_ON682263.3	2022-05-04	Europe	yes	ON682263.3	Homo sapiens	Germany	B.1
+United Kingdom_2022_ON619838.2	2022-05-23	Europe	yes	ON619838.2	Homo sapiens	United Kingdom	B.1
+United Kingdom_2022_ON619837.2	2022-05-23	Europe	yes	ON619837.2	Homo sapiens	United Kingdom	B.1
+Portugal_2022_ON585030.1	2022-05-15	Europe	yes	ON585030.1	Homo sapiens	Portugal	B.1
+USA_2022_ON676704.1	2022-05-23	North America	yes	ON676704.1	Homo sapiens	USA	B.1
+Portugal_2022_ON585029.1	2022-05-04	Europe	yes	ON585029.1	Homo sapiens	Portugal	B.1
+USA_2022_ON676706.1	2022-05-01	North America	yes	ON676706.1	Homo sapiens	USA	B.1
+Australia_2022_ON631963.1	2022-05-04	Oceania	yes	ON631963.1	Homo sapiens	Australia	B.1
+Portugal_2022_ON649717.1	2022-05-21	Europe	yes	ON649717.1	Homo sapiens	Portugal	B.1
+Spain_2022_ON720848.1	2022-05-27	Europe	yes	ON720848.1	Homo sapiens	Spain	B.1
+Germany_2022_ON755235.1	2022-06-01	Europe		ON755235.1	Homo sapiens	Germany	B.1
+Canada_2022_ON754989.1	2022-06-06	North America		ON754989.1	Homo sapiens	Canada	B.1
+Switzerland_2022_ON622720.1	2022-05-24	Europe	yes	ON622720.1	Homo sapiens	Switzerland	B.1
+Spain_2022_ON745225.1	2022-05-27	Europe		ON745225.1	Homo sapiens	Spain	B.1
+Portugal_2022_ON649724.1	2022-05-23	Europe	yes	ON649724.1	Homo sapiens	Portugal	B.1
+Portugal_2022_ON649719.1	2022-05-23	Europe	yes	ON649719.1	Homo sapiens	Portugal	B.1
+Slovenia_2022_ON631241.1	2022-05-24	Europe	yes	ON631241.1	Homo sapiens	Slovenia	B.1
+Portugal_2022_ON649721.1	2022-05-19	Europe	yes	ON649721.1	Homo sapiens	Portugal	B.1
+Portugal_2022_ON649718.1	2022-05-20	Europe	yes	ON649718.1	Homo sapiens	Portugal	B.1
+Portugal_2022_ON649723.1	2022-05-20	Europe	yes	ON649723.1	Homo sapiens	Portugal	B.1
+Portugal_2022_ON649722.1	2022-05-19	Europe	yes	ON649722.1	Homo sapiens	Portugal	B.1
+Portugal_2022_ON649725.1	2022-05-23	Europe	yes	ON649725.1	Homo sapiens	Portugal	B.1
+USA_2022_ON563414.3	2022-05-01	North America	yes	ON563414.3	Homo sapiens	USA	B.1
+France_2022_ON755040.1	2022-05-20	Europe		ON755040.1	Homo sapiens	France	B.1
+Portugal_2022_ON649710.1	2022-05-18	Europe	yes	ON649710.1	Homo sapiens	Portugal	B.1
+Portugal_2022_ON649715.1	2022-05-20	Europe	yes	ON649715.1	Homo sapiens	Portugal	B.1
+Italy_2022_ON614676.1	2022-05-18	Europe	yes	ON614676.1	Homo sapiens	Italy	B.1
+Switzerland_2022_ON595760.2	2022-05-19	Europe	yes	ON595760.2	Homo sapiens	Switzerland	B.1
+Germany_2022_ON755253.1	2022-06-01	Europe		ON755253.1	Homo sapiens	Germany	B.1
+Portugal_2022_ON585035.1	2022-05-15	Europe	yes	ON585035.1	Homo sapiens	Portugal	B.1
+Canada_2022_ON736420.1	2022-05-31	North America		ON736420.1	Homo sapiens	Canada	B.1
+Germany_2022_ON755243.1	2022-06-15	Europe		ON755243.1	Homo sapiens	Germany	B.1
+Portugal_2022_ON585034.1	2022-05-15	Europe	yes	ON585034.1	Homo sapiens	Portugal	B.1
+Portugal_2022_ON585031.1	2022-05-15	Europe	yes	ON585031.1	Homo sapiens	Portugal	B.1
+Germany_2022_ON755234.1	2022-06-01	Europe		ON755234.1	Homo sapiens	Germany	B.1
+Portugal_2022_ON585032.1	2022-05-17	Europe	yes	ON585032.1	Homo sapiens	Portugal	B.1
+Germany_2022_ON755231.1	2022-06-01	Europe		ON755231.1	Homo sapiens	Germany	B.1
+Germany_2022_ON755237.1	2022-06-01	Europe		ON755237.1	Homo sapiens	Germany	B.1
+Germany_2022_ON755241.1	2022-06-01	Europe		ON755241.1	Homo sapiens	Germany	B.1
+USA_2022_ON676703.1	2022-05-01	North America	yes	ON676703.1	Homo sapiens	USA	B.1
+Israel_2022_ON649879.1	2022-05-20	Asia	yes	ON649879.1	Homo sapiens	Israel	B.1
+Portugal_2022_ON649716.1	2022-05-23	Europe	yes	ON649716.1	Homo sapiens	Portugal	B.1
+Germany_2022_ON755245.1	2022-06-01	Europe		ON755245.1	Homo sapiens	Germany	B.1
+Germany_2022_ON755246.1	2022-06-01	Europe		ON755246.1	Homo sapiens	Germany	B.1
+Germany_2022_ON682267.2	2022-05-01	Europe	yes	ON682267.2	Homo sapiens	Germany	B.1
+Germany_2022_ON694341.1	2022-05-04	Europe	yes	ON694341.1	Homo sapiens	Germany	B.1
+Germany_2022_ON755247.1	2022-06-15	Europe		ON755247.1	Homo sapiens	Germany	B.1
+Italy_2022_ON644344.1	2022-05-25	Europe	yes	ON644344.1	Homo sapiens	Italy	B.1
+Germany_2022_ON694336.1	2022-05-01	Europe	yes	ON694336.1	Homo sapiens	Germany	B.1
+Belgium_2022_ON622713.1	2022-05-22	Europe	yes	ON622713.1	Homo sapiens	Belgium	B.1
+USA_2022_ON627808.1	2022-05-20	North America	yes	ON627808.1	Homo sapiens	USA	B.1
+Germany_2022_ON568298.1	2022-05-19	Europe	yes	ON568298.1	Homo sapiens	Germany	B.1
+Italy_2022_ON745215.1	2022-05-19	Europe		ON745215.1	Homo sapiens	Italy	B.1
+Germany_2022_ON682270.2	2022-05-01	Europe	yes	ON682270.2	Homo sapiens	Germany	B.1
+France_2022_ON755039.1	2022-05-19	Europe		ON755039.1	Homo sapiens	France	B.1
+Portugal_2022_ON649720.1	2022-05-19	Europe	yes	ON649720.1	Homo sapiens	Portugal	B.1
+Portugal_2022_ON649708.1	2022-05-19	Europe	yes	ON649708.1	Homo sapiens	Portugal	B.1
+Portugal_2022_ON649712.1	2022-05-19	Europe	yes	ON649712.1	Homo sapiens	Portugal	B.1
+Germany_2022_ON682269.3	2022-05-01	Europe	yes	ON682269.3	Homo sapiens	Germany	B.1
+Belgium_2022_ON622712.1	2022-05-19	Europe	yes	ON622712.1	Homo sapiens	Belgium	B.1
+USA_2022_ON676705.1	2022-05-04	North America	yes	ON676705.1	Homo sapiens	USA	B.1
+Portugal_2022_ON585033.1	2022-05-15	Europe	yes	ON585033.1	Homo sapiens	Portugal	B.1
+Portugal_2022_ON649709.1	2022-05-18	Europe	yes	ON649709.1	Homo sapiens	Portugal	B.1
+Portugal_2022_ON649711.1	2022-05-18	Europe	yes	ON649711.1	Homo sapiens	Portugal	B.1
+Netherlands_2022_ON615424.1	2022-05-23	Europe	yes	ON615424.1	Homo sapiens	Netherlands	B.1
+United Kingdom_2022_ON619835.2	2022-05-01	Europe	yes	ON619835.2	Homo sapiens	United Kingdom	B.1
+United Kingdom_2022_ON619836.2	2022-05-04	Europe	yes	ON619836.2	Homo sapiens	United Kingdom	B.1
+Germany_2022_ON755239.1	2022-06-15	Europe		ON755239.1	Homo sapiens	Germany	B.1
+Germany_2022_ON755244.1	2022-06-15	Europe		ON755244.1	Homo sapiens	Germany	B.1
+Germany_2022_ON755249.1	2022-06-15	Europe		ON755249.1	Homo sapiens	Germany	B.1
+Germany_2022_ON755255.1	2022-06-15	Europe		ON755255.1	Homo sapiens	Germany	B.1
+Germany_2022_ON694330.1	2022-05-31	Europe	yes	ON694330.1	Homo sapiens	Germany	B.1
+Germany_2022_ON694342.1	2022-05-17	Europe	yes	ON694342.1	Homo sapiens	Germany	B.1
+Germany_2022_ON682266.2	2022-05-04	Europe	yes	ON682266.2	Homo sapiens	Germany	B.1
+Germany_2022_ON682268.2	2022-05-04	Europe	yes	ON682268.2	Homo sapiens	Germany	B.1
+Germany_2022_ON682264.3	2022-05-31	Europe	yes	ON682264.3	Homo sapiens	Germany	B.1
+Spain_2022_ON622718.1	2022-05-20	Europe	yes	ON622718.1	Homo sapiens	Spain	B.1
+Spain_2022_ON720849.1	2022-05-27	Europe	yes	ON720849.1	Homo sapiens	Spain	B.1
+Germany_2022_ON755233.1	2022-06-01	Europe		ON755233.1	Homo sapiens	Germany	B.1
+Germany_2022_ON637939.1	2022-05-31	Europe	yes	ON637939.1	Homo sapiens	Germany	B.1
+Germany_2022_ON755254.1	2022-06-15	Europe		ON755254.1	Homo sapiens	Germany	B.1
+Portugal_2022_ON585037.1	2022-05-15	Europe	yes	ON585037.1	Homo sapiens	Portugal	B.1
+Portugal_2022_ON585038.1	2022-05-15	Europe	yes	ON585038.1	Homo sapiens	Portugal	B.1
+Portugal_2022_ON649713.1	2022-05-19	Europe	yes	ON649713.1	Homo sapiens	Portugal	B.1
+Portugal_2022_ON649714.1	2022-05-20	Europe	yes	ON649714.1	Homo sapiens	Portugal	B.1
+Germany_2022_ON755248.1	2022-06-01	Europe		ON755248.1	Homo sapiens	Germany	B.1
+France_2022_ON622722.2	2022-05-22	Europe	yes	ON622722.2	Homo sapiens	France	B.1
+Germany_2022_ON755251.1	2022-06-15	Europe		ON755251.1	Homo sapiens	Germany	B.1
+Germany_2022_ON755256.1	2022-06-15	Europe		ON755256.1	Homo sapiens	Germany	B.1
+Slovenia_2022_ON754984.1	2022-06-01	Europe		ON754984.1	Homo sapiens	Slovenia	B.1
+Slovenia_2022_ON754986.1	2022-06-01	Europe		ON754986.1	Homo sapiens	Slovenia	B.1
+Slovenia_2022_ON754985.1	2022-06-01	Europe		ON754985.1	Homo sapiens	Slovenia	B.1
+Slovenia_2022_ON609725.2	2022-05-23	Europe	yes	ON609725.2	Homo sapiens	Slovenia	B.1
+Slovenia_2022_ON754987.1	2022-05-23	Europe		ON754987.1	Homo sapiens	Slovenia	B.1
+Germany_2022_ON682265.3	2022-05-15	Europe	yes	ON682265.3	Homo sapiens	Germany	B.1
+Germany_2022_ON755238.1	2022-06-15	Europe		ON755238.1	Homo sapiens	Germany	B.1
+Germany_2022_ON694332.1	2022-05-31	Europe	yes	ON694332.1	Homo sapiens	Germany	B.1
+Germany_2022_ON755236.1	2022-06-01	Europe		ON755236.1	Homo sapiens	Germany	B.1
+Germany_2022_ON694333.1	2022-05-15	Europe	yes	ON694333.1	Homo sapiens	Germany	B.1
+Germany_2022_ON755250.1	2022-06-01	Europe		ON755250.1	Homo sapiens	Germany	B.1
+Germany_2022_ON755242.1	2022-06-01	Europe		ON755242.1	Homo sapiens	Germany	B.1
+Germany_2022_ON694334.1	2022-05-31	Europe	yes	ON694334.1	Homo sapiens	Germany	B.1
+Germany_2022_ON694329.1	2022-05-15	Europe	yes	ON694329.1	Homo sapiens	Germany	B.1
+Germany_2022_ON694338.1	2022-05-15	Europe	yes	ON694338.1	Homo sapiens	Germany	B.1
+Germany_2022_ON755252.1	2022-06-15	Europe		ON755252.1	Homo sapiens	Germany	B.1
+Germany_2022_ON694337.1	2022-05-31	Europe	yes	ON694337.1	Homo sapiens	Germany	B.1
+Germany_2022_ON694340.1	2022-05-31	Europe	yes	ON694340.1	Homo sapiens	Germany	B.1
+Germany_2022_ON694331.1	2022-05-18	Europe	yes	ON694331.1	Homo sapiens	Germany	B.1
+Germany_2022_ON755232.1	2022-06-01	Europe		ON755232.1	Homo sapiens	Germany	B.1
+Germany_2022_ON755240.1	2022-06-15	Europe		ON755240.1	Homo sapiens	Germany	B.1
+Germany_2022_ON637938.1	2022-05-18	Europe	yes	ON637938.1	Homo sapiens	Germany	B.1
+Germany_2022_ON694339.1	2022-05-18	Europe	yes	ON694339.1	Homo sapiens	Germany	B.1
+HUNSC_ITER_MPXV01_ILMN	2022-05-31	Europe	yes	AC000000	Homo sapiens	Spain	B.1
