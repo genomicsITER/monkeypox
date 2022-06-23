@@ -376,7 +376,7 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 
 > June 22, 2022. Working on a How-to-download seqs and metadata from GenBank.
 
-> June 23, 2022. Added a metadata file to use with a Nextstrain-monkeypox local instance in the useful-files section.
+> June 23, 2022. Added a metadata file to use with a Nextstrain-monkeypox local instance in the useful-files section; bioinformatic codes completed.
 
 
 <p align="right">
