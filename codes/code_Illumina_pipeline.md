@@ -195,7 +195,7 @@ outfile="aligned.sam"
 bowtie2-build ${reference} MT903344.1
 
 # Run Bowtie2 command:
-index_prefix=/path/to/index/files
+index_prefix="/path/to/index/files"
 bowtie2 -x ${index_prefix} -1 ${r1} -2 ${r2} -S ${outfile}
 ```
 
@@ -278,7 +278,7 @@ samtools mpileup -A -Q 0 ${infile} | ivar consensus -p ${outfile} -q 10 -t 0 -m 
 #### 8. Multisample Alignment and Phylogenetic Analysis:
 ```Bash
 # Create a multisample FASTA with more sequences
-sequences_dir=/path/to/more/sequences
+sequences_dir="/path/to/more/sequences"
 infile="consensus_sequence.fa"
 outfile="multifasta.fa"
 cat ${sequences_dir}/*.fa ${infile} > ${outfile}
@@ -298,7 +298,7 @@ mafft --reorder --anysymbol --nomemsave --adjustdirection --thread 48 ${infile} 
 # Alternatively, you could choose a model like JC by using the -m parameter.
 iqtree -s ${outfile} -nt AUTO
 
-# You will end up with a phylogenetic tree in Newick format (*.treefile extension) which can be represented using your favorite tool such as [NCBI Tree Viewer](https://www.ncbi.nlm.nih.gov/projects/treeview/).
+# You will end up with a phylogenetic tree in Newick format (*.treefile extension) which can be represented using your favorite tool such as NCBI Tree Viewer.
 ```
 
 <a name="8.2"></a>  
@@ -307,27 +307,101 @@ iqtree -s ${outfile} -nt AUTO
 # In case you install Nextstrain through conda:
 conda activate nexstrain
 
+# NEXSTRAIN_PATH should point to the path of the nextstrain/monkeypox GitHub repository in your system.
+NEXTSTRAIN_PATH="/path/to/nextstrain/monkeypox"
+
 # Align using Augur
 # You should replace the --nthread parameter with a proper value that suits your execution environment.
 infile="multifasta.fa"
 outfile="multifasta.agur-aligned.fa"
-augur \
- align \
+augur align \
  --sequences ${infile} \
  --reference-sequence ${reference} \
  --output ${outfile} \
  --fill-gaps \
  --nthreads 48
 
-# Create a sequence index to speed-up calculations
+# Infer a phylogenetic tree from the alignment
 infile="multifasta.agur-aligned.fa"
-outfile="multifasta.agur-aligned.index.tsv"
-augur index \
-  --sequences ${infile} \
-  --output ${outfile}
+outfile="multifasta.agur-aligned.tree_raw.nwk"
+augur tree \
+ --alignment ${infile} \
+ --output ${outfile}
 
-In progress...
+# Infer a time-resolved tree using the metadata file
+# Your metadata file should include dates for every sample.
+intree="multifasta.agur-aligned.tree_raw.nwk"
+inalign="multifasta.agur-aligned.fa"
+outtree="multifasta.agur-aligned.tree_raw.refined.nwk"
+outbranchs="multifasta.agur-aligned.tree_raw.refined.branch_lengths.json"
+metadata="/path/to/nextstrain_monkeypox_hmpxv1_metadata_processed_filtered.tsv"
+augur refine \
+ --tree ${intree} \
+ --alignment ${inalign} \
+ --metadata ${metadata} \
+ --output-tree ${outtree} \
+ --output-node-data ${outbranchs} \
+ --timetree \
+ --coalescent opt \
+ --date-confidence \
+ --date-inference marginal \
+ --clock-filter-iqd 4
 
+# Annotate each tip of the tree
+intree="multifasta.agur-aligned.tree_raw.refined.nwk"
+outtraits="multifasta.agur-aligned.tree_raw.refined.traits.json"
+augur traits \
+ --tree ${intree} \
+ --metadata ${metadata} \
+ --output-node-data ${outtraits} \
+ --columns region country \
+ --confidence
+
+# Infer ancestral sequences and identify mutations
+outnt="multifasta.agur-aligned.tree_raw.refined.nt_muts.json"
+augur ancestral \
+ --tree ${intree} \
+ --alignment ${inalign} \
+ --output-node-data ${outnt} \
+ --inference joint  
+
+# Identify amino acid mutations from the nucleotide mutations
+innt="multifasta.agur-aligned.tree_raw.refined.nt_muts.json"
+outaa="multifasta.agur-aligned.tree_raw.refined.aa_muts.json"
+reference="${NEXTSTRAIN_PATH}/config/reference.gb"
+augur translate \
+ --tree ${intree} \
+ --ancestral-sequences ${innt} \
+ --reference-sequence ${reference} \
+ --output-node-data ${outaa}
+
+# Export the results to Nexstrain in JSON format
+intree="multifasta.agur-aligned.tree_raw.refined.nwk"
+intraits="multifasta.agur-aligned.tree_raw.refined.traits.json"
+innt="multiMPXV01.agur-aligned.tree_raw.refined.nt_muts.json"
+inaa="multifasta.agur-aligned.tree_raw.refined.aa_muts.json"
+colors="${NEXTSTRAIN_PATH}/config/colors.tsv"
+latlongs="${NEXTSTRAIN_PATH}/config/lat_longs.tsv"
+auscfg="${NEXTSTRAIN_PATH}/config/auspice_config_hmpxv1.json"
+outfile="${NEXTSTRAIN_PATH}/auspice/monkeypox.json"
+metadata="/path/to/nextstrain_monkeypox_hmpxv1_metadata_processed_filtered.tsv"
+augur export v2 \
+ --tree ${intree} \
+ --metadata ${metadata} \
+ --node-data \
+   ${intraits} \
+   ${innt} \
+   ${inaa} \
+ --colors ${colors} \
+ --lat-longs ${latlongs} \
+ --auspice-config ${auscfg} \
+ --output ${outfile}
+
+# Visualize in auspice
+nextstrain view ${NEXTSTRAIN_PATH}/auspice/
+
+# While Auspice is running, navigate to http://127.0.0.1:4000/monkeypox in your browser to view the results.
+# To stop Auspice press CTRL+C keys in the console.
 ```
   
 <p align="right">
