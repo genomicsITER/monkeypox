@@ -147,6 +147,7 @@ Two consensus MPXV sequences have been obtained and deposited in NCBI GenBank fo
 
 <ul>
   <li>FASTA file (<i>'multiMPXV01.fasta.zip'</i>) with multiple sequences of MPXV from NCBI GenBank to use used in the Multiple Sample Aligment step with MAFFT or Nextstrain-monkeypox, available <a href="https://github.com/genomicsITER/monkeypox/blob/main/files/multiMPXV01.fasta.zip">here</a> (last update: June 16, 2022)</a></li>
+  <li>Metadata file to use with a Nextstrain-monkeypox local instance, available <a href="">here</a> (last update: June 23, 2022)</a></li>
 </ul>
 
  
@@ -369,6 +370,9 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 > June 21, 2022. Added a section with other useful external repositories for MPXV.
 
 > June 22, 2022. Working on a How-to-download seqs and metadata from GenBank.
+
+> June 23, 2022. Added a metadata file to use with a Nextstrain-monkeypox local instance in the useful-files section.
+
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
