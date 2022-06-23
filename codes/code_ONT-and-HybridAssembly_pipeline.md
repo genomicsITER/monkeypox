@@ -41,7 +41,10 @@ This is the result of an ongoing joint-effort of the following institutions and 
 <a name="1"></a>
 #### 1. Preprocessing of Nanopore reads:
 ```Bash
-#In preparation...
+# Filter short and low quality reads using FASTP:
+infile=/path/to/ont/all_reads.fastq
+outfile=all_reads.filtered.fastq
+fastp -w 48 -i ${infile} -l 500 -q 10 -o ${outfile}
 ```
 
 <a name="2"></a>
@@ -51,8 +54,14 @@ This is the result of an ongoing joint-effort of the following institutions and 
 # Also check here: https://benlangmead.github.io/aws-indexes/k2
 database="kraken2_human"
 
+# Define input and output files:
+infile="all_reads.filtered.fastq"
+unclassified="non_human_reads.fastq"
+classified="only_human_reads.fastq"
+report="kraken2_report.txt"
+
 # Assess the origin of reads using Kraken 2:
-kraken2 --db ${database} --report ${report} --classified-out ${classified} ${infile}
+kraken2 --db ${database} --report ${report} --unclassified-out ${unclassified} --classified-out ${classified} ${infile}
 ```
 
 <a name="3"></a>
