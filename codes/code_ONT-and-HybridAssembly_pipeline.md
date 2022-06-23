@@ -28,8 +28,8 @@ This is the result of an ongoing joint-effort of the following institutions and 
 # Code for Nanopore long-reads processing and hybrid *de novo* assembly #
 ## Table of contents ##
 <ul>
-<li><a href="#1">1. FASTQ Aggregation</a></li>
-<li><a href="#2">2. Human reads Scrubbing with Kraken 2</a></li>
+<li><a href="#1">1. Preprocessing of Nanopore reads</a></li>
+<li><a href="#2">2. Assessment of human reads with Kraken 2</a></li>
 <li><a href="#3">3. Hybrid de novo assembly with Unicycler</a></li>
 <li><a href="#4">4. Benchmarking and QC of assembly with QUAST</a></li>
 <li><a href="#5">5. Filter non-monkeypox contigs using Kraken 2 + PlusPF database</a></li>
@@ -39,15 +39,20 @@ This is the result of an ongoing joint-effort of the following institutions and 
 <hr>
   
 <a name="1"></a>
-#### 1. FASTQ Aggregation:
+#### 1. Preprocessing of Nanopore reads:
 ```Bash
 #In preparation...
 ```
 
 <a name="2"></a>
-#### 2. Human reads Scrubbing with Kraken 2:
+#### 2. Assessment of human reads with Kraken 2:
 ```Bash
-#In preparation...
+# Example of a database (i.e. used in Viral-Recon)
+# Also check here: https://benlangmead.github.io/aws-indexes/k2
+database="kraken2_human"
+
+# Assess the origin of reads using Kraken 2:
+kraken2 --db ${database} --report ${report} --classified-out ${classified} ${infile}
 ```
 
 <a name="3"></a>
