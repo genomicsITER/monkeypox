@@ -184,6 +184,21 @@ NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_
 <hr>
 <!-- ------------------ SECTION 4 ------------------ -->
 
+<a name="How-to-GenBank"></a>
+## How to download sequences and metadata from GenBank ##
+
+Sorry... we are working in this new section.
+
+<p align="right">
+  <a href="#Monkeypox" title="Up">
+    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+
+<hr>
+<!-- ------------------ SECTION 5 ------------------ -->
+
 <a name="Other-repos"></a>
 ## Other useful repositories with resources to study MPXV ##
 
@@ -199,22 +214,6 @@ NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_
   <li><a href="https://github.com/nextstrain/monkeypox">Nextstraing build for MPXV in GitHub</a> and <a href="https://nextstrain.org/monkeypox/hmpxv1">visualization</a></li>
   <li><a href="https://www.finddx.org/mpx-test-directory/">FIND offers a searchable directory of monkeypox tests</a></li>
 </ul>
-
-<p align="right">
-  <a href="#Monkeypox" title="Up">
-    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
-  </a>
-</p>
-
-
-
-<hr>
-<!-- ------------------ SECTION 5 ------------------ -->
-
-<a name="How-to-GenBank"></a>
-## How to download sequences and metadata from GenBank ##
-
-Sorry... we are working in this new section.
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
