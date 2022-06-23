@@ -61,7 +61,10 @@ classified="only_human_reads.fastq"
 report="kraken2_report.txt"
 
 # Assess the origin of reads using Kraken 2:
-kraken2 --db ${database} --report ${report} --unclassified-out ${unclassified} --classified-out ${classified} ${infile}
+kraken2 --db ${database} \
+  --report ${report} \
+  --unclassified-out ${unclassified} \
+  --classified-out ${classified} ${infile}
 ```
 
 <a name="3"></a>
