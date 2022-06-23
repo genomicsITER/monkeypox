@@ -190,6 +190,11 @@ NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_
 
 Sorry... we are working in this new section.
 
+> Manual download
+
+> Programmatically download
+
+
 <p align="right">
   <a href="#Monkeypox" title="Up">
     <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
