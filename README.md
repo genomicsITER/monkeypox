@@ -188,11 +188,23 @@ NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_
 <a name="How-to-GenBank"></a>
 ## How to download sequences and metadata from GenBank ##
 
-Sorry... we are working in this new section.
-
 > Manual download
 
+<ol>
+<li>Browse to <a href="https://www.ncbi.nlm.nih.gov/genbank/">GenBank</a>.</li>
+<li>Select '<i>Nucleotide</i>' from the combo box.</li>
+<li>Fill in the accession code of the sequence you want to download (i.e. ON782054) or just write the name of the species (i.e. Monkeypox, and then clic on a certain accession code you are interested in).</li>
+<li>Click on '<i>FASTA</i>' link</li>
+<li>Click on '<i>Send to</i>' on the upper right part of the screen.</li>
+<li>Select the option '<i>file</i>'.</li>
+<li>Select '<i>FASTA</li> as download format.</li>
+<li>Click on '<i>Generate</i>' button.</li>
+</ol>
+
 > Programmatically download
+
+<a href="https://github.com/genomicsITER/monkeypox/blob/main/codes/code_retrieve-seqs-from-GenBank.md"><img src="https://github.com/genomicsITER/monkeypox/blob/main/images/Code-Window-icon.png" width="32px" /></a>  We provide a full Python code to retrieve all sequences larger than 190,000 bases from GenBank as example. [See the code](https://github.com/genomicsITER/monkeypox/blob/main/codes/code_Illumina_pipeline.md).
+
 
 
 <p align="right">
@@ -374,10 +386,9 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 
 > June 21, 2022. Added a section with other useful external repositories for MPXV.
 
-> June 22, 2022. Working on a How-to-download seqs and metadata from GenBank.
-
 > June 23, 2022. Added a metadata file to use with a Nextstrain-monkeypox local instance in the useful-files section; bioinformatic codes completed.
 
+> June 28, 2022. Added the code to illustrate How-to-download seqs and metadata from GenBank.
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
