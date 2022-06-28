@@ -203,7 +203,7 @@ NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_
 
 > Programmatically download
 
-<a href="https://github.com/genomicsITER/monkeypox/blob/main/codes/code_retrieve-seqs-from-GenBank.md"><img src="https://github.com/genomicsITER/monkeypox/blob/main/images/Code-Window-icon.png" width="32px" /></a>  We provide a full Python code to retrieve all sequences larger than 190,000 bases from GenBank as example. [See the code](https://github.com/genomicsITER/monkeypox/blob/main/codes/code_Illumina_pipeline.md).
+<a href="https://github.com/genomicsITER/monkeypox/blob/main/codes/code_retrieve-seqs-from-GenBank.md"><img src="https://github.com/genomicsITER/monkeypox/blob/main/images/Code-Window-icon.png" width="32px" /></a>  We provide a full Python code to retrieve all sequences larger than 190,000 bases from GenBank as example. [See the code](https://github.com/genomicsITER/monkeypox/blob/main/codes/code_retrieve-seqs-from-GenBank.md).
 
 
 
