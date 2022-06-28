@@ -40,7 +40,8 @@ This is the result of an ongoing joint-effort of the following institutions and 
 
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+# Version: June 28, 2022
+	
 from pathlib import Path
 import csv
 import json
