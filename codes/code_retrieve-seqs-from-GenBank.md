@@ -25,16 +25,17 @@ This is the result of an ongoing joint-effort of the following institutions and 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-# Code for Illumina short-reads processing #
-## Table of contents ##
-<ul>
-<li><a href="#1">1. ...</a></li>
-</ul>
+## Python Code to programmatically retrieve MPXV sequences from GenBank ##
+<!-- ## Table of contents ## -->
+<!-- <ul> -->
+<!-- <li><a href="#1">1. ...</a></li> -->
+<!-- </ul> -->
 
-<hr>
+<!-- <hr> -->
 
 <a name="1"></a>
-#### 1. ...
+####  Retrieve MPXV sequences of length > 190.000 bases from GenBank
+  
 ```Python
 
 #!/usr/bin/env python
