@@ -41,39 +41,86 @@ This is the result of an ongoing joint-effort of the following institutions and 
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+from pathlib import Path
 import csv
 import json
 import re
 import subprocess
 
+# Usage: conda run --no-capture-output -n entrez-direct python3 download-monkeypox-sequences.py
+
 MIN_SEQ_LEN = 190000
-CONDA_ENV_NAME = 'entrez-direct'
 QUERY = 'esearch -db nuccore -query "monkeypox" | efilter -organism "Monkeypox virus" -molecule "genomic" | efetch -format docsum -mode json'
+METADATA_FILENAME = 'metadata.tsv'
+LOCAL_ACCESSIONS = 'accessions.tsv'
+QUERY_LOCAL = 'efetch -input "{}" -db nuccore -format docsum -mode json'.format(LOCAL_ACCESSIONS)
 
-print("[1] Loading conda env...")
+to_csv = []
+accessions = []
 
-print("[2] Performing query: {}".format(QUERY))
+local_file = Path(LOCAL_ACCESSIONS)
+if local_file.is_file():
+  print("[1] Performing query from local accessions: {}".format(LOCAL_ACCESSIONS))
+  ps = subprocess.Popen(QUERY_LOCAL,shell=True,stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
+  output = ps.communicate()[0]
+  if ps.returncode == 0:
+    print("Query was OK!")
+	
+  print("[1] Performing query: {}".format(QUERY_LOCAL))
+  ps = subprocess.Popen(QUERY_LOCAL,shell=True,stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
+  output = ps.communicate()[0]
+  if ps.returncode == 0:
+    print("Query was OK!")
+	
+  print("[2] Processing query result...")
+  data=json.loads(output)
+  record_uids=data['result']['uids']
+  print("Query has returned {} records".format(len(record_uids)))
+
+  print("[3] Parsing result records...")
+  for uid in record_uids:
+    if data['result'][uid]['slen'] >= MIN_SEQ_LEN:
+      data_dict = {
+        'title': data['result'][uid]['title'],
+        'filename': '{}.fasta'.format(data['result'][uid]['accessionversion']),
+        'caption': data['result'][uid]['caption'],
+        'accession': data['result'][uid]['accessionversion'],
+        'creation_date': data['result'][uid]['createdate'],
+        'update_date': data['result'][uid]['updatedate'],
+        'ncbi_link': 'https://www.ncbi.nlm.nih.gov/nuccore/{}'.format(data['result'][uid]['caption']),
+        'completeness': data['result'][uid]['completeness'],
+        'sequence_length_in_bp': data['result'][uid]['slen'],
+        'extra_data': data['result'][uid]['extra'],
+        'subtype_format': data['result'][uid]['subtype'],
+        'subtype_data': data['result'][uid]['subname']
+      }
+      to_csv.append(data_dict)
+      accessions.append(data['result'][uid]['caption'])
+  print("Query has found {} valid records".format(len(to_csv)))
+  
+print("[1] Performing query: {}".format(QUERY))
 ps = subprocess.Popen(QUERY,shell=True,stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
 output = ps.communicate()[0]
+if ps.returncode == 0:
+  print("Query was OK!")
 
-print("Query result: {}".format(output))
-
-print("[3] Processing query result...")
+print("[2] Processing query result...")
 data=json.loads(output)
 record_uids=data['result']['uids']
-print("Query has returned: {} records".format(len(record_uids)))
+print("Query has returned {} records".format(len(record_uids)))
 
-print("[4] Parsing result records...")
+print("[3] Parsing result records...")
 to_csv = []
 for uid in record_uids:
-  if data['result'][uid]['slen'] >= MIN_SEQ_LEN:
+  if data['result'][uid]['slen'] >= MIN_SEQ_LEN and data['result'][uid]['caption'] not in accessions:
     data_dict = {
       'title': data['result'][uid]['title'],
-      'filename': re.sub(r'(?u)[\\\\/:*\?"<>|]', '', data['result'][uid]['title']).replace(', complete genome', '').replace(', partial genome', '').replace(" ", "_") + '.fasta',
+      'filename': '{}.fasta'.format(data['result'][uid]['accessionversion']),
       'caption': data['result'][uid]['caption'],
-      'accession': data['result'][uid]['caption'],
+      'accession': data['result'][uid]['accessionversion'],
       'creation_date': data['result'][uid]['createdate'],
       'update_date': data['result'][uid]['updatedate'],
+      'ncbi_link': 'https://www.ncbi.nlm.nih.gov/nuccore/{}'.format(data['result'][uid]['caption']),
       'completeness': data['result'][uid]['completeness'],
       'sequence_length_in_bp': data['result'][uid]['slen'],
       'extra_data': data['result'][uid]['extra'],
@@ -81,17 +128,20 @@ for uid in record_uids:
       'subtype_data': data['result'][uid]['subname']
     }
     to_csv.append(data_dict)
+    accessions.append(data['result'][uid]['caption'])
+print("Query has found {} valid records".format(len(to_csv)))
 
 keys = to_csv[0].keys()
-print("[5] Generating metadata file...")
-with open('metadata.tsv', 'w', encoding='utf8', newline='') as output_file:
+print("[4] Generating metadata file...")
+with open(METADATA_FILENAME, 'w', encoding='utf8', newline='') as output_file:
   dict_writer = csv.DictWriter(output_file, keys, delimiter='\t')
   dict_writer.writeheader()
   dict_writer.writerows(to_csv)
+print("Metadata written to {}".format(METADATA_FILENAME))
 
-print("[6] Downloading sequences...")
+print("[5] Downloading sequences...")
 for item in to_csv:
-  print("Downloading {} FASTA sequence...".format(item['filename']))
+  print("Downloading {}...".format(item['filename']))
   cmd = 'efetch -db nuccore -id "{}" -format fasta > {}'.format(item['accession'], item['filename'])
   ps = subprocess.Popen(cmd,shell=True,stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
   output = ps.communicate()[0]
