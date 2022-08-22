@@ -38,7 +38,7 @@ This is the result of a continuous collaborative effort of the following Institu
   </ul>
   <li><a href="#Sequences">Sequences</a></li>
   <li><a href="#How-to-GenBank">How to download sequences and metadata from GenBank</a></li> 
-  <li><a href="#DNA-depletion">nrichment of viral DNA by means of Human & Bacterial DNA depletion</a></li>  
+  <li><a href="#DNA-depletion">Enrichment of viral DNA by means of Human & Bacterial DNA depletion</a></li>  
   <li><a href="#Other-repos">Other useful repositories with resources to study MPXV</a></li>
   <li><a href="#References">References</a></li>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
@@ -397,17 +397,17 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 <a name="Update logs"></a>
 ## Update logs ##
 
-> June 13, 2022. Created the public version of this repository. Enjoy the reading! ;=)
-
-> June 16, 2022. The MultiSample FASTA file now holds 137 public MPXV sequences.
-
-> June 21, 2022. Added a section with other useful external repositories for MPXV.
-
-> June 23, 2022. Added a metadata file to use with a Nextstrain-monkeypox local instance in the useful-files section; bioinformatic codes completed.
+> August 22, 2022. Added a section with references to enrichment of viral DNA by means of Human & Bacterial DNA depletion.
 
 > June 28, 2022. Added the code to illustrate How-to-download seqs and metadata from GenBank.
 
-> August 22, 2022. Added a section with references to enrichment of viral DNA by means of Human & Bacterial DNA depletion.
+> June 23, 2022. Added a metadata file to use with a Nextstrain-monkeypox local instance in the useful-files section; bioinformatic codes completed.
+
+> June 21, 2022. Added a section with other useful external repositories for MPXV.
+
+> June 16, 2022. The MultiSample FASTA file now holds 137 public MPXV sequences.
+
+> June 13, 2022. Created the public version of this repository. Enjoy the reading! ;=)
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
