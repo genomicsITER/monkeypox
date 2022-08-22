@@ -37,7 +37,8 @@ This is the result of a continuous collaborative effort of the following Institu
       <li><a href="#Useful-Files">Useful files for the pipelines</a></li>
   </ul>
   <li><a href="#Sequences">Sequences</a></li>
-  <li><a href="#How-to-GenBank">How to download sequences and metadata from GenBank</a></li>  
+  <li><a href="#How-to-GenBank">How to download sequences and metadata from GenBank</a></li> 
+  <li><a href="#DNA-depletion">nrichment of viral DNA by means of Human & Bacterial DNA depletion</a></li>  
   <li><a href="#Other-repos">Other useful repositories with resources to study MPXV</a></li>
   <li><a href="#References">References</a></li>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
@@ -213,9 +214,25 @@ NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_
   </a>
 </p>
 
-
 <hr>
 <!-- ------------------ SECTION 5 ------------------ -->
+
+<a name="DNA-depletion"></a>
+## Enrichment of viral DNA by means of Human & Bacterial DNA depletion ##
+
+<ul>
+<li><a href="https://international.neb.com/products/e2612-nebnext-microbiome-dna-enrichment-kit#Product%20Information" target="_blank">NEBNext® Microbiome DNA Enrichment Kit</a>. See <a href="https://virological.org/t/monkeypox-virus-genome-sequences-from-multiple-lesions-indicates-co-infection-of-a-uk-returning-traveller/873">this post</a> at Virological.org</li>
+<li>See <a href="https://www.medrxiv.org/content/10.1101/2022.07.29.22278145v1">"A new and efficient enrichment method for metagenomic sequencing of monkeypox virus"</a>, which performs host DNA depletion using a saponin/NaCl combination treatment and DNase.</li>
+</ul>
+
+<p align="right">
+  <a href="#Monkeypox" title="Up">
+    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+<hr>
+<!-- ------------------ SECTION 6 ------------------ -->
 
 <a name="Other-repos"></a>
 ## Other useful repositories with resources to study MPXV ##
@@ -241,7 +258,7 @@ NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_
 
 
 <hr>
-<!-- ------------------ SECTION 6 ------------------ -->
+<!-- ------------------ SECTION 7 ------------------ -->
 
 <a name="References"></a>
 ## References ##
@@ -308,7 +325,7 @@ medRxiv 2022.06.03.22275815; doi: https://doi.org/10.1101/2022.06.03.22275815
 
 
 <hr>
-<!-- ------------------ SECTION 7 ------------------ -->
+<!-- ------------------ SECTION 8 ------------------ -->
 
 <a name="Acknowledgements"></a>
 ## Acknowledgements ##
@@ -333,7 +350,7 @@ We would like to acknowledge the contributions of several researchers and labora
 
 
 <hr>
-<!-- ------------------ SECTION 8 ------------------ -->
+<!-- ------------------ SECTION 9 ------------------ -->
 
 <a name="License and Attribution"></a>
 ## License and Attribution ##
@@ -350,7 +367,7 @@ Please cite as: _"Monkeypox repository of the Reference Laboratory for Epidemiol
 
 
 <hr>
-<!-- ------------------ SECTION 9 ------------------ -->
+<!-- ------------------ SECTION 10 ------------------ -->
 
 <a name="Participating"></a>
 ## Participating ##
@@ -375,7 +392,7 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 
 
 <hr>
-<!-- ------------------ SECTION 10 ------------------ -->
+<!-- ------------------ SECTION 11 ------------------ -->
 
 <a name="Update logs"></a>
 ## Update logs ##
@@ -389,6 +406,8 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 > June 23, 2022. Added a metadata file to use with a Nextstrain-monkeypox local instance in the useful-files section; bioinformatic codes completed.
 
 > June 28, 2022. Added the code to illustrate How-to-download seqs and metadata from GenBank.
+
+> August 22, 2022. Added a section with references to enrichment of viral DNA by means of Human & Bacterial DNA depletion.
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
