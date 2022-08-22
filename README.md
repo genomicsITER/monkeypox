@@ -265,6 +265,8 @@ NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_
 
 > Published papers
 
+Alcolea-Medina, Adela and Charalampous, Themoula and Snell, Luke B. and Aydin, Alp and Alder, Christopher and Maloney, Gillian and Bryan, Lisa and Nebbia, Gaia and Douthwaite, Sam and Neil, Stuart and Cliff, Penelope and O'Grady, Justin and Batra, Rahul and Wilks, Mark and O'Hara, Geraldine and Edgeworth, Jonathan, Novel, Rapid Metagenomic Method to Detect Emerging Viral Pathogens Applied to Human Monkeypox Infections (June 9, 2022). Available at SSRN: https://ssrn.com/abstract=4132526 or http://dx.doi.org/10.2139/ssrn.4132526
+
 Berthet N, Descorps-Declère S, Besombes C, et al. Genomic history of human monkey pox infections in the Central African Republic between 2001 and 2018. Sci Rep. 2021;11(1):13085. Published 2021 Jun 22. doi: https://doi.org/10.1038/s41598-021-92315-8
 
 Cervantes-Gracia K, Gramalla-Schmitz A, Weischedel J, Chahwan R. APOBECs orchestrate genomic and epigenomic editing across health and disease. Trends Genet. 2021;37(11):1028-1043. doi: https://doi.org/10.1016/j.tig.2021.07.003
@@ -301,6 +303,8 @@ Patrono LV, Pléh K, Samuni L, et al. Monkeypox virus emergence in wild chimpanz
 
 Pecori R, Di Giorgio S, Paulo Lorenzo J, Nina Papavasiliou F. Functions and consequences of AID/APOBEC-mediated DNA and RNA deamination [published online ahead of print, 2022 Mar 7]. Nat Rev Genet. 2022;1-14. doi: https://doi.org/10.1038/s41576-022-00459-8
 
+Seang, S., Burrel, S., Todesco, E., Leducq, V., Monsel, G., Le Pluart, D., Cordevant, C., Pourcher, V., & Palich, R. (2022). Evidence of human-to-dog transmission of monkeypox virus. Lancet (London, England), S0140-6736(22)01487-8. Advance online publication. doi: https://doi.org/10.1016/S0140-6736(22)01487-8
+
 Shchelkunov SN, Shcherbakov DN, Maksyutov RA, Gavrilova EV. Species-specific identification of variola, monkeypox, cowpox, and vaccinia viruses by multiplex real-time PCR assay. J Virol Methods. 2011;175(2):163-169. doi: https://doi.org/10.1016/j.jviromet.2011.05.002
 
 Tumewu J, Wardiana M, Ervianty E, et al. An adult patient with suspected of monkeypox infection differential diagnosed to chickenpox. Infect Dis Rep. 2020;12(Suppl 1):8724. Published 2020 Jul 6. doi: https://doi.org/10.4081/idr.2020.8724
@@ -313,9 +317,15 @@ Zhao K, Wohlhueter RM, Li Y. Finishing monkeypox genomes from short reads: assem
 
 > Preprint papers
 
+A new and efficient enrichment method for metagenomic sequencing of monkeypox virus
+Pablo Aja-Macaya, Soraya Rumbo-Feal, Margarita Poza, Angelina Cañizares, Juan A. Vallejo and Germán Bou
+medRxiv 2022.07.29.22278145v1; doi: https://doi.org/10.1101/2022.07.29.22278145
+
 Enhanced surveillance of monkeypox in Bas-Uélé, Democratic Republic of Congo: the limitations of symptom-based case definitions
 Gaspard Mande, Innocent Akonda, Anja De Weggheleire, Isabel Brosius, Laurens Liesenborghs, Emmanuel Bottieau, Noam Ross, Guy -Crispin Gembu, Robert Colebunders, Erik Verheyen, Ngonda Dauly, Herwig Leirs, Anne Laudisoit
 medRxiv 2022.06.03.22275815; doi: https://doi.org/10.1101/2022.06.03.22275815
+
+
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
@@ -397,7 +407,7 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 <a name="Update logs"></a>
 ## Update logs ##
 
-> August 22, 2022. Added a section with references to enrichment of viral DNA by means of Human & Bacterial DNA depletion.
+> August 22, 2022. Added a section with references to enrichment of viral DNA by means of Human & Bacterial DNA depletion; references section updated with new entries.
 
 > June 28, 2022. Added the code to illustrate How-to-download seqs and metadata from GenBank.
 
