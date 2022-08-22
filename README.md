@@ -240,6 +240,9 @@ NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_
 > Kudos to all research teams behind the scenes in all these repositories:
 > 
 <ul>
+  <li><a href="https://www.who.int/publications/i/item/WHO-MPX-laboratory-2022.1">WHO Laboratory testing for the monkeypox virus: Interim guidance (and Corrigendums), 23 May 2022</a></li>
+  <li>European Centre for Disease Prevention and Control (ECDC), <a href="https://www.ecdc.europa.eu/en/monkeypox">Monkeypox resource center</a></li>
+  <li>Joint ECDC-WHO Regional Office for Europe <a href="https://monkeypoxreport.ecdc.europa.eu/">Monkeypox Surveillance Bulletin</a></li>
   <li><a href="https://virological.org/c/monkeypox">Virological.org posts on MPXV</a></li>
   <li><a href="https://github.com/CADDE-CENTRE/Monkeypox">CADDE-CENTRE GitHub repository for MPXV</a></li>  
   <li><a href="https://github.com/Mike-Honey/mpx-22">Mike Honey GitHub repository for MPXV</a></li>
@@ -407,7 +410,7 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 <a name="Update logs"></a>
 ## Update logs ##
 
-> August 22, 2022. Added a section with references to enrichment of viral DNA by means of Human & Bacterial DNA depletion; references section updated with new entries.
+> August 22, 2022. Added a section with references to enrichment of viral DNA by means of Human & Bacterial DNA depletion; references section updated with new entries; public repositories showing new resources.
 
 > June 28, 2022. Added the code to illustrate How-to-download seqs and metadata from GenBank.
 
