@@ -119,7 +119,7 @@ Two consensus MPXV sequences have been obtained and deposited in NCBI GenBank fo
 <li>Conda manual for installation of numerous open-source tools used in these pipelines:<a href="https://docs.conda.io/en/latest/">Conda documentation</a></li>
 <li>Reformat FASTQ files to get an interleaved FASTQ file: <a href="https://sourceforge.net/projects/bbmap/">BBMap tools v.38.96</a></li>
 <li>Remove Human mapping-reads from your FASTQ files: <a href="https://github.com/ncbi/sra-human-scrubber/">NCBI SRA Human Scrubber v.1.0.2021_05_05</a></li>
-<li>Remove Human mapping-reads from your FASTQ files: <a href="https://ccb.jhu.edu/software/kraken2/">Kraken2 v.2.1.2</a></li>
+<li>Remove Human mapping-reads from your FASTQ files: <a href="https://ccb.jhu.edu/software/kraken2/">Kraken2 v.2.1.2</a></li>. If you have issues when downloading the database indexes, try this a hre="https://benlangmead.github.io/aws-indexes/k2" >alternative site</a> from <a href="https://github.com/BenLangmead" >BenLangmead</a>.
 <li>Programming environment of general purpose: <a href="https://www.r-project.org/">R v.4.1.3</a></li>
 <li>Compute the depth of coverage and other statistics: <a href="https://github.com/brentp/mosdepth/">Mosdepth v.0.3.3</a></li>
 <li>Compute de number of duplicates and other statistics: <a href="https://broadinstitute.github.io/picard/">Picard Tools v.2.18.7</a></li>
