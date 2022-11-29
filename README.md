@@ -198,7 +198,7 @@ NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_
 <li>Click on '<i>FASTA</i>' link</li>
 <li>Click on '<i>Send to</i>' on the upper right part of the screen.</li>
 <li>Select the option '<i>file</i>'.</li>
-<li>Select '<i>FASTA</li> as download format.</li>
+<li>Select '<i>FASTA</i>' as download format.</li>
 <li>Click on '<i>Generate</i>' button.</li>
 </ol>
 
@@ -374,11 +374,9 @@ Please cite as: _"Monkeypox repository of the Reference Laboratory for Epidemiol
 
 A paper with some of the work presented here is under revision. You can find the preprint here:
 
-Bioinformatic approaches to draft the viral genome sequence of Canary Islands cases related to the multi-country Monkeypox virus 2022-outbreak
+_"Bioinformatic approaches to draft the viral genome sequence of Canary Islands cases related to the multi-country Monkeypox virus 2022-outbreak"_
 Adrián Muñoz-Barrera, Laura Ciuffreda, Julia Alcoba-Florez, Luis A. Rubio-Rodríguez, Héctor Rodríguez-Pérez, Helena Gil-Campesino, Diego García-Martínez de Artola, Josmar Salas-Hernández, Julia Rodríguez-Núñez, Antonio Íñigo-Campos, Oscar Díez-Gil, Rafaela González-Montelongo, Agustín Valenzuela-Fernández, José M. Lorenzo-Salazar, Carlos Flores
 medRxiv 2022.11.08.22282035; doi: https://doi.org/10.1101/2022.11.08.22282035
-
-This study has been funded by Cabildo Insular de Tenerife (CGIEU0000219140 and "Apuestas cientificas del ITER para colaborar en la lucha contra la COVID-19"), Instituto de Salud Carlos III (FI18/00230) cofunded by European Union (ERDF) "A way of making Europe", by the agreement with Instituto Tecnologico y de Energias Renovables (ITER) to strengthen scientific and technological education, training, research, development and innovation in Genomics, Personalized Medicine and Biotechnology (OA17/008); by the European Centre for Disease Prevention and Control (ECDC/HERA/2021/024 ECD.12241); and Convenio Marco de Cooperacion Consejeria de Educacion-Cabildo Insular de Tenerife 2021-2025 (CGIAC0000014697).
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
