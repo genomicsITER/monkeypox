@@ -44,6 +44,7 @@ This is the result of a continuous collaborative effort of the following Institu
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
   <li><a href="#License and Attribution">License and Attribution</a></li>
   <li><a href="#Participating">Participating</a></li>
+  <li><a href="#How-to-cite">How to cite this work</a></li>
   <li><a href="#Update logs">Update logs</a></li>
 </ul>
 
@@ -412,6 +413,23 @@ Follow us on Twitter <a href="https://twitter.com/labcflores" title="Follow to @
 
 <hr>
 <!-- ------------------ SECTION 11 ------------------ -->
+
+<a name="How-to-cite"></a>
+## How to cite this work ##
+
+> This work has been publised in Computational and Structural Biotechnology Journal. Please, cite it as:
+
+Muñoz-Barrera A, Ciuffreda L, Alcoba-Florez J, et al. <a href="https://doi.org/10.1016/j.csbj.2023.03.020" title="Read the paper">Bioinformatic approaches to draft the viral genome sequence of Canary Islands cases related to the multicountry mpox virus 2022-outbreak</a>. Comput Struct Biotechnol J. 2023;21:2197-2203. doi:10.1016/j.csbj.2023.03.020
+
+<p align="right">
+  <a href="#Monkeypox" title="Up">
+    <img src="https://github.com/genomicsITER/monkeypox/blob/main/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+
+<hr>
+<!-- ------------------ SECTION 12 ------------------ -->
 
 <a name="Update logs"></a>
 ## Update logs ##
