@@ -434,6 +434,8 @@ Muñoz-Barrera A, Ciuffreda L, Alcoba-Florez J, et al. <a href="https://doi.org/
 <a name="Update logs"></a>
 ## Update logs ##
 
+> March 28, 2023. Added a "How to cite" section and reference to our paper publised in Computational and Structural Biotechnology Journal.
+
 > September 15, 2022. Added an alternative site from BenLangmead to download indexes for Kraken 2, KrakenUniq, and Bracken (see software section for Kraken2).
 
 > August 22, 2022. Added a section with references to enrichment of viral DNA by means of Human & Bacterial DNA depletion; references section updated with new entries; public repositories showing new resources.
