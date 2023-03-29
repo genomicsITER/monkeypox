@@ -175,6 +175,11 @@ NCBI GenBank Accession: ON782054. Sequence available as [ MPXV/Spain/HUNSC_ITER_
 
 NCBI GenBank Accession: ON782055. Sequence available as [ MPXV/Spain/HUNSC_ITER_0001b/2022](https://www.ncbi.nlm.nih.gov/nuccore/ON782055)
 
+> For the published paper, we have sequenced more samples. Their sequences are publicly available as follows:
+- MPXV sequences of MPXV01, MPXV05, MPXV06 and MPXV07 samples obtained from the Illumina-only consensus approach have been released in the NCBI GenBank with accessions [ON782054](https://www.ncbi.nlm.nih.gov/nuccore/ON782054), [OQ581847](https://www.ncbi.nlm.nih.gov/nuccore/OQ581847), [OQ581848](https://www.ncbi.nlm.nih.gov/nuccore/OQ581848), and [OQ581849](https://www.ncbi.nlm.nih.gov/nuccore/OQ581849), respectively.
+- Hybrid de novo assemblies of MPXV01, MPXV05, MPXV06 and MPXV07 samples have also been released with accessions [ON782055](https://www.ncbi.nlm.nih.gov/nuccore/ON782055), [OQ581850](https://www.ncbi.nlm.nih.gov/nuccore/OQ581850), [OQ581851](https://www.ncbi.nlm.nih.gov/nuccore/OQ581851), and [OQ581852](https://www.ncbi.nlm.nih.gov/nuccore/OQ581852), respectively.
+
+
 
 
 <p align="right">
