@@ -371,13 +371,7 @@ We would like to acknowledge the contributions of several researchers and labora
 
 This repository and data exports are released under the CC BY 4.0 license. Please acknowledge the authors, the originating and submitting laboratories for the genetic sequences and metadata, and the open source software used in this work (third-party copyrights and licenses may apply).
 
-Please cite as: _"Monkeypox repository of the Reference Laboratory for Epidemiological Surveillance of Pathogens in the Canary Islands (accessed on YYYY-MM-DD)"_.
-
-A paper with some of the work presented here is under revision. You can find the preprint here:
-
-_"Bioinformatic approaches to draft the viral genome sequence of Canary Islands cases related to the multi-country Monkeypox virus 2022-outbreak"_
-Adrián Muñoz-Barrera, Laura Ciuffreda, Julia Alcoba-Florez, Luis A. Rubio-Rodríguez, Héctor Rodríguez-Pérez, Helena Gil-Campesino, Diego García-Martínez de Artola, Josmar Salas-Hernández, Julia Rodríguez-Núñez, Antonio Íñigo-Campos, Oscar Díez-Gil, Rafaela González-Montelongo, Agustín Valenzuela-Fernández, José M. Lorenzo-Salazar, Carlos Flores
-medRxiv 2022.11.08.22282035; doi: https://doi.org/10.1101/2022.11.08.22282035
+Please cite this repository as: _"Monkeypox repository of the Reference Laboratory for Epidemiological Surveillance of Pathogens in the Canary Islands (accessed on YYYY-MM-DD)"_. And do not forget to cite the paper (see the section "How to cite" below).
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
