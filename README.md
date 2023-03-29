@@ -376,7 +376,7 @@ We would like to acknowledge the contributions of several researchers and labora
 
 This repository and data exports are released under the CC BY 4.0 license. Please acknowledge the authors, the originating and submitting laboratories for the genetic sequences and metadata, and the open source software used in this work (third-party copyrights and licenses may apply).
 
-Please cite this repository as: _"Monkeypox repository of the Reference Laboratory for Epidemiological Surveillance of Pathogens in the Canary Islands (accessed on YYYY-MM-DD)"_. And do not forget to cite the paper (see the section "How to cite" below).
+Please cite this repository as: _"Monkeypox repository of the Reference Laboratory for Epidemiological Surveillance of Pathogens in the Canary Islands (accessed on YYYY-MM-DD)"_. And do not forget to <a href="#How-to-cite">cite the paper</a> (see the section "How to cite" below).
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
