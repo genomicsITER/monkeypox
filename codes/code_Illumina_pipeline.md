@@ -154,7 +154,7 @@ r2="unclassified_2.fastq"
 outfile="aligned.sam"
   
 # Run BWA-MEM command:
-bwa mem -Y ${reference}  ${r1} ${r2} > ${outfile}
+bwa mem -Y ${reference} ${r1} ${r2} > ${outfile}
 ```
 <a name="3.2"></a> 
 ##### 3.2 With Minimap2:
