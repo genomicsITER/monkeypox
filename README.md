@@ -280,11 +280,11 @@ Berthet N, Descorps-Declère S, Besombes C, et al. Genomic history of human monk
 
 Cervantes-Gracia K, Gramalla-Schmitz A, Weischedel J, Chahwan R. APOBECs orchestrate genomic and epigenomic editing across health and disease. Trends Genet. 2021;37(11):1028-1043. doi: https://doi.org/10.1016/j.tig.2021.07.003
 
-Cohen J. Global outbreak puts spotlight on neglected virus. Science. 2022;376(6597):1032-1033. doi:10.1126/science.add2701
+Cohen J. Global outbreak puts spotlight on neglected virus. Science. 2022;376(6597):1032-1033. doi: https://doi.org/10.1126/science.add2701
 
 Cohen-Gihon I, Israeli O, Shifman O, et al. Identification and Whole-Genome Sequencing of a Monkeypox Virus Strain Isolated in Israel. Microbiol Resour Announc. 2020;9(10):e01524-19. Published 2020 Mar 5. doi: https://doi.org/10.1128/MRA.01524-19
 
-Erez N, Achdout H, Milrot E, et al. Diagnosis of Imported Monkeypox, Israel, 2018. Emerg Infect Dis. 2019;25(5):980-983. doi:10.3201/eid2505.190076
+Erez N, Achdout H, Milrot E, et al. Diagnosis of Imported Monkeypox, Israel, 2018. Emerg Infect Dis. 2019;25(5):980-983. doi: https://doi.org/10.3201/eid2505.190076
 
 Faye O, Pratt CB, Faye M, et al. Genomic characterisation of human monkeypox virus in Nigeria [published correction appears in Lancet Infect Dis. 2018 Mar;18(3):244]. Lancet Infect Dis. 2018;18(3):246. doi: https://doi.org/10.1016/S1473-3099(18)30043-4
 
@@ -296,7 +296,7 @@ Kugelman JR, Johnston SC, Mulembakani PM, et al. Genomic variability of monkeypo
 
 Kulesh DA, Loveless BM, Norwood D, et al. Monkeypox virus detection in rodents using real-time 3'-minor groove binder TaqMan assays on the Roche LightCycler. Lab Invest. 2004;84(9):1200-1208. doi: https://doi.org/10.1038/labinvest.3700143
 
-Li D, Wilkins K, McCollum AM, et al. Evaluation of the GeneXpert for Human Monkeypox Diagnosis. Am J Trop Med Hyg. 2017;96(2):405-410. doi:10.4269/ajtmh.16-0567
+Li D, Wilkins K, McCollum AM, et al. Evaluation of the GeneXpert for Human Monkeypox Diagnosis. Am J Trop Med Hyg. 2017;96(2):405-410. doi: https://doi.org/10.4269/ajtmh.16-0567
 
 Li Y, Olson VA, Laue T, Laker MT, Damon IK. Detection of monkeypox virus with real-time PCR assays. J Clin Virol. 2006;36(3):194-203. doi: https://doi.org/10.1016/j.jcv.2006.03.012
 
@@ -305,6 +305,8 @@ Li Y, Zhao H, Wilkins K, Hughes C, Damon IK. Real-time PCR assays for the specif
 Luciani L, Inchauste L, Ferraris O, et al. A novel and sensitive real-time PCR system for universal detection of poxviruses [published correction appears in Sci Rep. 2022 Apr 8;12(1):5961]. Sci Rep. 2021;11(1):1798. Published 2021 Jan 19. doi: https://doi.org/10.1038/s41598-021-81376-4
 
 Maksyutov RA, Gavrilova EV, Shchelkunov SN. Species-specific differentiation of variola, monkeypox, and varicella-zoster viruses by multiplex real-time PCR assay. J Virol Methods. 2016;236:215-220. doi: https://doi.org/10.1016/j.jviromet.2016.07.024
+
+Mande G, Akonda I, De Weggheleire A, Brosius I, Liesenborghs L, Bottieau E, Ross N, Gembu GC, Colebunders R, Verheyen E, Ngonda D, Leirs H, Laudisoit A. Enhanced surveillance of monkeypox in Bas-Uélé, Democratic Republic of Congo: the limitations of symptom-based case definitions. Int J Infect Dis. 2022 Sep;122:647-655. ddoi: https://doi.org/10.1016/j.ijid.2022.06.060
 
 Mucker EM, Hartmann C, Hering D, et al. Validation of a pan-orthopox real-time PCR assay for the detection and quantification of viral genomes from nonhuman primate blood. Virol J. 2017;14(1):210. Published 2017 Nov 3. doi: https://doi.org/10.1186/s12985-017-0880-8
 
@@ -318,7 +320,7 @@ Shchelkunov SN, Shcherbakov DN, Maksyutov RA, Gavrilova EV. Species-specific ide
 
 Tumewu J, Wardiana M, Ervianty E, et al. An adult patient with suspected of monkeypox infection differential diagnosed to chickenpox. Infect Dis Rep. 2020;12(Suppl 1):8724. Published 2020 Jul 6. doi: https://doi.org/10.4081/idr.2020.8724
 
-Yong SEF, Ng OT, Ho ZJM, et al. Imported Monkeypox, Singapore. Emerg Infect Dis. 2020;26(8):1826-1830. doi:10.3201/eid2608.191387
+Yong SEF, Ng OT, Ho ZJM, et al. Imported Monkeypox, Singapore. Emerg Infect Dis. 2020;26(8):1826-1830. doi: https://doi.org/10.3201/eid2608.191387
 
 Zhao K, Wohlhueter RM, Li Y. Finishing monkeypox genomes from short reads: assembly analysis and a neural network method. BMC Genomics. 2016;17 Suppl 5(Suppl 5):497. Published 2016 Aug 31. doi: https://doi.org/10.1186/s12864-016-2826-8
 
@@ -329,12 +331,6 @@ Zhao K, Wohlhueter RM, Li Y. Finishing monkeypox genomes from short reads: assem
 A new and efficient enrichment method for metagenomic sequencing of monkeypox virus
 Pablo Aja-Macaya, Soraya Rumbo-Feal, Margarita Poza, Angelina Cañizares, Juan A. Vallejo and Germán Bou
 medRxiv 2022.07.29.22278145v1; doi: https://doi.org/10.1101/2022.07.29.22278145
-
-Enhanced surveillance of monkeypox in Bas-Uélé, Democratic Republic of Congo: the limitations of symptom-based case definitions
-Gaspard Mande, Innocent Akonda, Anja De Weggheleire, Isabel Brosius, Laurens Liesenborghs, Emmanuel Bottieau, Noam Ross, Guy -Crispin Gembu, Robert Colebunders, Erik Verheyen, Ngonda Dauly, Herwig Leirs, Anne Laudisoit
-medRxiv 2022.06.03.22275815; doi: https://doi.org/10.1101/2022.06.03.22275815
-
-
 
 <p align="right">
   <a href="#Monkeypox" title="Up">
@@ -432,6 +428,8 @@ Muñoz-Barrera A, Ciuffreda L, Alcoba-Florez J, et al. <a href="https://doi.org/
 
 <a name="Update logs"></a>
 ## Update logs ##
+
+> September 5, 2025. Fixed some references URLs.
 
 > March 28, 2023. Added a "How to cite" section and reference to our paper publised in Computational and Structural Biotechnology Journal.
 
